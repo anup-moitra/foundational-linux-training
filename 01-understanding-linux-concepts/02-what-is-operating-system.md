@@ -1,6 +1,6 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 2: What is an Operating System?**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![OS](https://img.shields.io/badge/Operating%20System-blue)  
+`Linux Fundamentals` `Operating System`
 
 ---
 
