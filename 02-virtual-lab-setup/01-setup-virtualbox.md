@@ -1,13 +1,5 @@
 # **Module 1: Virtual Lab Setup**
-
 ## **Chapter 1: Download and Install VirtualBox**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) 
-![Virtual Lab Setup](https://img.shields.io/badge/Virtual%20Lab%20Setup-blue) 
-![Installing VirtualBox](https://img.shields.io/badge/Installing%20VirtualBox-orange)
-
----
-
 ### **🖥️ Introduction**
 In this chapter, we will guide you through the process of downloading and installing **VirtualBox** on your system. This step will establish the foundational virtual lab required to support your learning of Linux basics and prepare you for future topics.
 
