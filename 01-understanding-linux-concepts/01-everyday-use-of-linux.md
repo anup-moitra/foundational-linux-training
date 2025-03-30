@@ -1,6 +1,6 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 1: Everyday Use of Linux**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Everyday Use](https://img.shields.io/badge/Everyday%20Use-blue)  
+`Linux Fundamentals` `Everyday Use of Linux`
 
 ---
 
