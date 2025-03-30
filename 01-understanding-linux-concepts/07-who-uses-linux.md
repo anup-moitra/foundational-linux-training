@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 7: Who Uses Linux?**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Users](https://img.shields.io/badge/Linux%20Users-blue)  
-
----
-
 ### **🖥️ Introduction**  
 Linux is widely used across various industries and sectors due to its **versatility**, **stability**, and **open-source nature**. From individual developers to large enterprises, Linux plays a crucial role in powering modern technology.  
 
