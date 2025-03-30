@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 3: What is Linux?**
-`Linux Fundamentals` `What is Linux`
-
----
-
 ### **🖥️ Introduction**  
 Since Linux is the core focus of this course, it’s essential to first understand **what Linux is**, how it functions, and why it’s widely used. In this chapter, we'll explore the concept of Linux, its characteristics, and why it’s important for IT professionals.
 
