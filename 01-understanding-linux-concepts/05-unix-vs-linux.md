@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 5: Difference Between Unix and Linux**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Unix vs Linux](https://img.shields.io/badge/Unix%20vs%20Linux-blue)  
-
----
-
 ### **🖥️ Introduction**  
 While **Linux** and **Unix** share common roots and concepts, they have key differences that set them apart. Understanding these differences will help you better grasp why Linux became a powerful and widely adopted operating system.
 
