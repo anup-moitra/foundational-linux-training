@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 4: History of Linux**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![History](https://img.shields.io/badge/History%20of%20Linux-blue)  
-
----
-
 ### **🖥️ Introduction**  
 Understanding the history of Linux is essential to appreciate its evolution, design philosophy, and widespread use today. This chapter explores how Linux emerged, its growth over time, and why it continues to thrive as a powerful operating system.
 
