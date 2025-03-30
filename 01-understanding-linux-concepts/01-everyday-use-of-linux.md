@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 1: Everyday Use of Linux**  
-`Linux Fundamentals` `Everyday Use of Linux`
-
----
-
 ### **🖥️ Introduction**  
 Linux is one of the most widely used operating systems in the world, playing a significant role in various industries and technologies. While many people may not realize it, Linux powers many of the devices and services we interact with daily. This chapter highlights practical examples of how Linux is integrated into everyday life.
 
