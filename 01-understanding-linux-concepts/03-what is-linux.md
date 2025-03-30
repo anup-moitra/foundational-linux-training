@@ -1,6 +1,6 @@
 # **Module 1: Understanding Linux Concepts**  
-## **Chapter 3: What is Linux?**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![What is Linux](https://img.shields.io/badge/What%20is%20Linux-blue)  
+## **Chapter 3: What is Linux?**
+`Linux Fundamentals` `What is Linux`
 
 ---
 
