@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 8: Difference Between Linux and Windows**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Windows](https://img.shields.io/badge/Linux%20vs%20Windows-blue)  
-
----
-
 ### **🖥️ Introduction**  
 Knowing the differences between **Linux** and **Windows** is essential, especially for technical interviews or system administration roles. Interviewers may ask:  
 
