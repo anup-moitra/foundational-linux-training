@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 6: Linux Distributions (Distros)**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Distros](https://img.shields.io/badge/Linux%20Distributions-blue)  
-
----
-
 ### **🖥️ Introduction**  
 When people talk about **Linux Flavors**, they are typically referring to **Linux Distributions**, often called **Distros**. Each distribution is a unique version of Linux, designed to cater to different user needs, preferences, and use cases.  
 
