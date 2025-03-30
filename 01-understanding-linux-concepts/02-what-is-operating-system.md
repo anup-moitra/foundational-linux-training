@@ -1,9 +1,5 @@
 # **Module 1: Understanding Linux Concepts**  
 ## **Chapter 2: What is an Operating System?**  
-`Linux Fundamentals` `Operating System`
-
----
-
 ### **🖥️ Introduction**  
 Before diving deeper into Linux, it’s important to understand the fundamental concept of an **Operating System (OS)**. An OS plays a crucial role in managing computer hardware and software resources, acting as a bridge between the user and the computer.  
 
