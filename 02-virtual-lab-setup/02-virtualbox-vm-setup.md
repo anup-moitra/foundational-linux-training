@@ -2,12 +2,6 @@
 
 ## **Chapter 2: Creating and Configuring a Virtual Machine**  
 
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) 
-![Virtual Lab Setup](https://img.shields.io/badge/Virtual%20Lab%20Setup-blue) 
-![Creating Virtual Machine](https://img.shields.io/badge/Creating%20VM-orange)
-
----
-
 ### **📝 Introduction**  
 In this chapter, we will guide you through the process of creating and configuring a virtual machine (VM) using **VirtualBox**. This is a crucial step in preparing for the next chapter, where we’ll demonstrate how to download, install, and set up **CentOS Stream 9**, a popular Linux distribution, within this virtual environment.
 
