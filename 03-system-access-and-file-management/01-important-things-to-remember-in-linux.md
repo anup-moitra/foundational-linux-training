@@ -1,11 +1,6 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 
-## **Chapter 1: Important Things to Remember in Linux**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) 
-![System Access](https://img.shields.io/badge/System%20Access-blue) 
-![Important Things](https://img.shields.io/badge/Important%20Things-orange)
-
----
+## **Chapter 1: Important Things to Remember in Linux**
 
 ### **🖥️ Introduction**  
 In this chapter, we will cover some critical concepts and best practices that you should always keep in mind when working with Linux systems. Understanding these concepts will set a solid foundation for more advanced tasks, whether you're configuring servers, managing cloud infrastructure, or developing software.
