@@ -24,7 +24,8 @@
 - Accessing Linux Systems  
 - Accessing Linux Machine via PuTTY or SSH  
 - Regaining the Command Prompt Using Control + C  
-- Introduction to Filesystem Basics & Filesystem Structure Overview  
+- Introduction to Filesystem Basics
+- Filesystem Structure Overview  
 - Navigating the File System (`cd`, `ls`, `pwd`)  
 - Understanding File and Directory Properties  
 - Understanding Linux File Types  
