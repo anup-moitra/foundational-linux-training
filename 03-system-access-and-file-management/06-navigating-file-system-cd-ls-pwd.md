@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 6: Navigating the File System (`cd`, `ls`, `pwd`)**  
-![Linux Basics](https://img.shields.io/badge/Linux-Basics-green) ![Navigation](https://img.shields.io/badge/File_System-Navigation-blue) ![Command_Line](https://img.shields.io/badge/Command-Line_Tools-orange)  
-
----
-
 ### **🖥️ Introduction**  
 In this chapter, we will explore the fundamental Linux commands for navigating the file system:  
 - **`pwd`**: Print the full path of the current working directory.  
