@@ -1,11 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 2: Accessing Linux Systems**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) 
-![System Access](https://img.shields.io/badge/System%20Access-blue) 
-![Accessing Linux Systems](https://img.shields.io/badge/Accessing%20Linux%20Systems-orange)
-
----
-
 ### **🖥️ Introduction**  
 In this chapter, we will delve into the two primary methods of accessing a Linux system: **Console Access** and **Remote Access**. Understanding these methods is essential for managing and troubleshooting Linux systems effectively, whether you’re working on a local machine or accessing remote servers.
 
