@@ -1,4 +1,4 @@
-# **Module 1: Virtual Lab Setup**
+# **Module 2: Virtual Lab Setup**
 
 ## **Chapter 3: Download and Install Linux (CentOS Stream 9)** 
 
