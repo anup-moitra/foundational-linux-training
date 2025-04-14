@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 8: Understanding Linux File Types**  
-![Linux File Types](https://img.shields.io/badge/Linux-File_Types-blue) ![System Management](https://img.shields.io/badge/System-Management-green)  
-
----
-
 ### **📖 Introduction**  
 In Linux, files are not just data containers but are categorized into various types that serve specific purposes. These include:  
 - **📄 Regular Files**: Text, executables, or binary data.  
