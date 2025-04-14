@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 10: Changing User Passwords in Linux**  
-![Linux Security](https://img.shields.io/badge/Linux-Password_Management-blue) ![System Administration](https://img.shields.io/badge/System-Administration-green)  
-
----
-
 ### **📖 Introduction**  
 Managing user passwords is a critical aspect of Linux system administration. The ability to change passwords ensures secure access and helps maintain system integrity.  
 
