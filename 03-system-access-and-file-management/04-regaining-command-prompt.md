@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 4: Command Line Basics - Regaining the Command Prompt Using Control + C**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Command Line](https://img.shields.io/badge/Command%20Line-Basics-blue) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Essential-orange)
-
----
-
 ### **🖥️ Introduction**  
 In this chapter, we will explore how to regain control of an unresponsive command prompt using the **Control + C** shortcut. This is a vital troubleshooting technique for managing long-running or stuck commands in the terminal.  
 
