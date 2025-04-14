@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
-## **Chapter 7: Understanding File and Directory Properties in Linux**  
-![File Properties](https://img.shields.io/badge/Linux-File_Properties-blue) ![Permissions](https://img.shields.io/badge/Permissions-Management-green)  
-
----
-
+# **Module 3: System Access and File Management**  
+## **Chapter 7: Understanding File and Directory Properties in Linux
 ### **🖥️ Introduction**  
 Every file and directory in Linux has associated properties that provide crucial details such as file type, ownership, permissions, size, and more. This chapter explains how to view and understand these properties using the **`ls -l`** command.  
 
