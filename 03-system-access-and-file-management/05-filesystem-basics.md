@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 5: Filesystem Basics**  
-![Filesystem](https://img.shields.io/badge/Filesystem-Overview-green) ![Windows](https://img.shields.io/badge/Windows-Fundamentals-blue) ![Linux](https://img.shields.io/badge/Linux-Fundamentals-orange)  
-
----
-
 ### **🖥️ Introduction**  
 In this chapter, we will explore the concept of a filesystem and its role in managing files and directories. A filesystem is essential for organizing and retrieving data efficiently. Understanding the structure of a filesystem is crucial for both Windows and Linux environments.  
 
