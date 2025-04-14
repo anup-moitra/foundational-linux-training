@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
-## **Chapter 9: Understanding Root in Linux**  
-![Linux Root](https://img.shields.io/badge/Linux-Root_Concepts-blue) ![System Administration](https://img.shields.io/badge/System-Administration-green)  
-
----
-
+# **Module 3: System Access and File Management**  
+## **Chapter 9: Understanding Root in Linux** 
 ### **📖 Introduction**  
 In Linux, the term **"root"** has multiple meanings depending on the context. It can refer to:  
 - **Root Account**: The superuser account with full system privileges.  
