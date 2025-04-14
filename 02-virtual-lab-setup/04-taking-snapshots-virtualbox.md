@@ -1,11 +1,6 @@
 # **Module 1: Virtual Lab Setup**  
 
-## **Chapter 4: Taking Snapshots in VirtualBox**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) 
-![Virtual Lab Setup](https://img.shields.io/badge/Virtual%20Lab%20Setup-blue) 
-![Snapshots in VirtualBox](https://img.shields.io/badge/Snapshots%20in%20VirtualBox-orange)  
-
----
+## **Chapter 4: Taking Snapshots in VirtualBox** 
 
 ### **🖥️ Introduction**  
 In this chapter, we will explore the concept of **snapshots** in VirtualBox. Snapshots allow you to save the state of a virtual machine at a specific point in time, which is useful for testing, experimentation, and rollback scenarios.
