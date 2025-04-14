@@ -1,9 +1,5 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 3: Accessing Linux Machine via PuTTY or SSH**  
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![System Access](https://img.shields.io/badge/System%20Access-blue) ![SSH](https://img.shields.io/badge/SSH-Access-orange)
-
----
-
 ### **🖥️ Introduction**  
 This chapter explores how to access a Linux machine remotely using various platforms: **Windows SSH client**, **Mac Terminal**, **Linux Terminal**, and **PuTTY on Windows**. SSH (Secure Shell) is a widely-used protocol that ensures secure access and management of remote systems.
 
