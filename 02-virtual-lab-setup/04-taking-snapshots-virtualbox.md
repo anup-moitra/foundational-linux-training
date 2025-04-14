@@ -1,4 +1,4 @@
-# **Module 1: Virtual Lab Setup**  
+# **Module 2: Virtual Lab Setup**  
 
 ## **Chapter 4: Taking Snapshots in VirtualBox** 
 
