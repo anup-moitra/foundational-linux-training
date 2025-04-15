@@ -1,10 +1,5 @@
-# **Module 2: System Access and File Management**  
-## **Chapter 11: Absolute and Relative Paths**  
-
-![Linux Navigation](https://img.shields.io/badge/Linux-Navigation-yellow) ![Absolute and Relative Paths](https://img.shields.io/badge/Absolute%20and%20Relative%20Paths-blue) 
-
----
-
+# **Module 3: System Access and File Management**  
+## **Chapter 11: Absolute and Relative Paths** 
 ### **📖 Introduction**  
 In Linux, navigating the file system efficiently is key to managing files and directories. This chapter explores the differences between **absolute** and **relative paths** and demonstrates how to use them with the `cd` command.  
 
