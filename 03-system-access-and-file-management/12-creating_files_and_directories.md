@@ -1,10 +1,5 @@
 # **Module 2: System Access and File Management**  
-## **Chapter 12: Creating Files and Directories in Linux**  
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green)   ![File Management](https://img.shields.io/badge/File%20Management-blue)   ![Creating Files](https://img.shields.io/badge/Creating%20Files-orange)  
-
----
-
+## **Chapter 12: Creating Files and Directories in Linux**
 ### **📖 Introduction**  
 In this chapter, we’ll explore various ways to create files and directories in Linux. Mastering these methods is essential for effective file management and organization in a Linux environment.  
 
