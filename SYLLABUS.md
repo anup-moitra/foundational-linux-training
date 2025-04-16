@@ -40,7 +40,8 @@
 **Module 4 – Linux Fundamentals** 
 
 - Commands Syntax 
-- File Permissions *(chmod)* 
+- File Permissions - Symbolic *(chmod)*
+- File Permissions - Numeric *(chmod)*
 - File Ownership *(chown, chgrp)* 
 - Getting Help *(man, whatis etc.)* 
 - TAB completion and up arrow keys 
