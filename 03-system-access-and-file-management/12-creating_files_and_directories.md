@@ -1,4 +1,4 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 12: Creating Files and Directories in Linux**
 ### **📖 Introduction**  
 In this chapter, we’ll explore various ways to create files and directories in Linux. Mastering these methods is essential for effective file management and organization in a Linux environment.  
