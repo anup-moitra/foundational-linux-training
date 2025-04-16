@@ -31,8 +31,6 @@ The `ls` command lists files and directories in the current working directory.
 ls
 ```
 
-![Command](https://img.shields.io/badge/Command-ls-yellow)
-
 ---
 
 ### **2️⃣ Options**
@@ -62,8 +60,6 @@ ls -ltr
 - `-t`: Sort by modification time.
 - `-r`: Reverse the order.
 
-![Option](https://img.shields.io/badge/Option-l%2Ct%2Cr-orange)
-
 ---
 
 ### **3️⃣ Arguments**
@@ -80,8 +76,6 @@ Here:
 - `ls` → Command
 - `-l` → Option
 - `anup` → Argument (file or directory)
-
-![Argument](https://img.shields.io/badge/Argument-anup-lightblue)
 
 ---
 
@@ -103,8 +97,6 @@ Here:
 - `-r` → Option (recursive).
 - `dir1` → Argument specifying the directory to delete.
 
-![Command](https://img.shields.io/badge/Command-rm-orange)
-
 ---
 
 ### **📖 Viewing Command Manual (`man`)**
@@ -120,8 +112,6 @@ man ls
 **Usage**:
 - Press **Space** to scroll down.
 - Press **Q** to quit and return to the prompt.
-
-![Manual](https://img.shields.io/badge/Command-man-purple)
 
 ---
 
@@ -142,8 +132,6 @@ Using `ls` with multiple options and arguments.
    - `-t`: Sort by modification time
    - `-r`: Reverse the order
 - `Downloads` → Argument (directory to list)
-
-![File Listing](https://img.shields.io/badge/Example-File%20Listing-green)
 
 **Screenshot**:  
 ![Created File](screenshots/01-listing-files-with-options.png)  
