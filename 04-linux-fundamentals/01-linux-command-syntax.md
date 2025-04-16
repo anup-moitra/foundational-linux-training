@@ -1,10 +1,6 @@
-# **Module 3: Linux Fundamentals**
+# **Module 4: Linux Fundamentals**
 
 ## **Chapter 1: Linux Command Syntax**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Command_Syntax](https://img.shields.io/badge/Command-Syntax-blue)
-
----
 
 ### **🔑 Introduction**
 Understanding the syntax of Linux commands is fundamental for effectively navigating and working in a Linux environment. Every command follows a structured syntax that includes **commands**, **options**, and **arguments**. In this chapter, we’ll break down the components of a Linux command and explain how to use options and arguments to enhance their functionality.
