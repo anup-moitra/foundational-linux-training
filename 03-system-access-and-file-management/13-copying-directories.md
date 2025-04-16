@@ -1,4 +1,4 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 13: Copying Directories**  
 ### **📖 Introduction**  
 In this chapter, we’ll explore how to copy directories in Linux. While we’ve previously covered file management techniques, copying directories is an essential skill, particularly when managing configuration files or backups. The `cp -R` command ensures that all contents, including subdirectories and files, are copied over correctly, preserving the directory structure.  
