@@ -1,10 +1,5 @@
 # **Module 2: System Access and File Management**  
 ## **Chapter 14: Finding Files and Directories (find, locate)**  
-
-![Linux Utilities](https://img.shields.io/badge/Linux-Utilities-orange)  ![File Management](https://img.shields.io/badge/File-Management-blue)  
-
----
-
 ### **🛠️ Preparation Before Starting**  
 To get started with this chapter, create a practice environment by following these steps:  
 
