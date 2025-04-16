@@ -1,4 +1,4 @@
-# **Module 2: System Access and File Management**  
+# **Module 3: System Access and File Management**  
 ## **Chapter 14: Finding Files and Directories (find, locate)**  
 ### **🛠️ Preparation Before Starting**  
 To get started with this chapter, create a practice environment by following these steps:  
