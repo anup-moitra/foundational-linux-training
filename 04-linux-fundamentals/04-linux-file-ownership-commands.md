@@ -1,10 +1,6 @@
-# **Module 3: Linux Fundamentals**
+# **Module 4: Linux Fundamentals**
 
 ## **Chapter 4: File Ownership Commands (chown, chgrp)**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![chown](https://img.shields.io/badge/Command-chown-orange) ![chgrp](https://img.shields.io/badge/Command-chgrp-orange)
-
----
 
 ### **🔑 Introduction**
 In this chapter, we’ll learn how to manage file and directory ownership in Linux using the commands **`chown`** and **`chgrp`**. These commands allow users to change the ownership of files and directories, including both the owner and the group. Understanding how to modify ownership is essential for managing file permissions and security, especially in shared environments.
