@@ -1,4 +1,4 @@
-# Module 3: Linux Fundamentals
+# Module 4: Linux Fundamentals
 
 ## Chapter 3: File Permissions Using Numeric Mode  
 
