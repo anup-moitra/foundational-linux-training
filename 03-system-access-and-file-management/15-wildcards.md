@@ -1,11 +1,6 @@
 # **Module 2: System Access and File Management**
 
 ## **Chapter 15: Wildcards (`*`, `?`, `{}`, `[]`)**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Wildcard_Types](https://img.shields.io/badge/Wildcards-Types-blue)
-
----
-
 ### **📌 Introduction**
 Wildcards are powerful tools in Linux that help match patterns in filenames or directories, making tasks like searching, listing, copying, or deleting files faster and more efficient.  
 
