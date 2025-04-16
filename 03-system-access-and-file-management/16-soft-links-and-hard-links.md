@@ -1,11 +1,6 @@
 # **Module 2: System Access and File Management**
 
 ## **Chapter 16: Understanding Soft Links and Hard Links**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![Link_Types](https://img.shields.io/badge/Link-Types-purple)
-
----
-
 ### **🔑 Introduction**  
 In this chapter, we explore **soft links** and **hard links**, essential tools for Linux file management. First, let's delve into **inodes**, a fundamental component of Linux filesystems that underpins both concepts.
 
