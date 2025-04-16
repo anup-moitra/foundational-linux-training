@@ -1,10 +1,6 @@
-# **Module 3: Linux Fundamentals**
+# **Module 4: Linux Fundamentals**
 
 ## **Chapter 5: Access Control List (ACL)**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![ACL](https://img.shields.io/badge/Command-ACL-blue) ![setfacl](https://img.shields.io/badge/Command-setfacl-orange) ![getfacl](https://img.shields.io/badge/Command-getfacl-orange)
-
----
 
 ### **🔑 Introduction**
 In this chapter, we will explore **Access Control List (ACL)**, an advanced mechanism to manage permissions for files and directories in Linux. While traditional UNIX permissions limit flexibility, ACL provides a way to define **more granular, user-specific permissions**. By the end of this chapter, you will understand how to set and manage ACL permissions using the commands **`setfacl`** and **`getfacl`**.
