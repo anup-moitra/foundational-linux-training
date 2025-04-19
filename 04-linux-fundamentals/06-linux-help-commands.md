@@ -2,7 +2,7 @@
 
 ## **Chapter 6: Linux Help Commands**
 
-## **Overview**
+### **Overview**
 
 📖 In this chapter, we will explore the help commands available in a Linux environment. These commands provide users with information about other commands, making it easier to understand their purpose and usage.
 
@@ -14,16 +14,16 @@ Linux help commands can be grouped into three types:
 
 ---
 
-## **1. `whatis` Command**
+### **1. `whatis` Command**
 
 🔎 The `whatis` command provides a concise, one-line summary of the specified command.
 
-### **Syntax**
+#### **Syntax**
 ```bash
 whatis <command>
 ```
 
-### **Examples**
+#### **Examples**
 
 - Get a description of the `ls` command:
   ```bash
@@ -56,16 +56,16 @@ whatis <command>
 
 ---
 
-## **2. `--help` Option**
+### **2. `--help` Option**
 
 📝 The `--help` option provides a detailed list of options and usage information for a command. This is especially useful for quickly understanding the available features of a command.
 
-### **Syntax**
+#### **Syntax**
 ```bash
 <command> --help
 ```
 
-### **Examples**
+#### **Examples**
 
 - Get help for the `ls` command:
   ```bash
@@ -98,7 +98,7 @@ whatis <command>
 
 ---
 
-## **3. `man` Command**
+### **3. `man` Command**
 
 📜 The `man` command opens the manual page for a command. This manual provides in-depth information, including a description, usage syntax, options, and additional notes about the command.
 
@@ -107,7 +107,7 @@ whatis <command>
 man <command>
 ```
 
-### **Examples**
+#### **Examples**
 
 - Open the manual page for the `ls` command:
   ```bash
@@ -153,7 +153,7 @@ man <command>
 
 ---
 
-## **Comparison of Help Commands**
+### **Comparison of Help Commands**
 
 | 🛠 **Command**    | 📋 **Output Description**                         | 💻 **Usage Example** |
 |-------------------|--------------------------------------------------|----------------------|
@@ -163,7 +163,7 @@ man <command>
 
 ---
 
-## **Tips and Tricks**
+### **Tips and Tricks**
 
 ✨ Here are some tips to enhance your command-line experience:
 
@@ -177,7 +177,7 @@ man <command>
 
 ---
 
-## **Key Takeaways**
+### **Key Takeaways**
 
 ✔️ The **`whatis`** command is ideal for a quick summary.
 ✔️ The **`--help`** option provides detailed usage information.
