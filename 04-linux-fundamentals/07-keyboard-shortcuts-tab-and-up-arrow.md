@@ -1,10 +1,6 @@
-# **Module 3: Linux Fundamentals**
+# **Module 4: Linux Fundamentals**
 
 ## **Chapter 7: Mastering Keyboard Shortcuts: TAB and Up Arrow**
-
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-green) ![TAB](https://img.shields.io/badge/Command-TAB-orange) ![Up Arrow](https://img.shields.io/badge/Command-Up_Arrow-blue)
-
----
 
 ## **Overview**
 
