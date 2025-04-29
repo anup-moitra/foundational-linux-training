@@ -1,10 +1,6 @@
-# Module 4: Linux Command Line Tools
+# Module 5: Linux Command Line Tools
 
 ## Chapter 3: User Account Management
-
-![Linux](https://img.shields.io/badge/Linux-Command--Line-blue) ![User](https://img.shields.io/badge/User-Management-orange)
-
----
 
 ### **🔑 Introduction**
 
