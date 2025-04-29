@@ -1,10 +1,6 @@
-# **Module 4: Linux Command Line Tools**
+# **Module 5: Linux Command Line Tools**
 
 ## **Chapter 2: Text Manipulation with `sed` Command**
-
-![Linux](https://img.shields.io/badge/Linux-Command--Line-blue) ![sed](https://img.shields.io/badge/Command-sed-orange)
-
----
 
 ### **🔑 Introduction**
 
