@@ -22,8 +22,8 @@ Below are the photos and screenshots I took as evidence:
 
 ### 1. My Android Smartphone
 
-<img src="images/phone-about.png" alt="Android About Phone menu" width="200"/>  
-Screenshot showing my phone's “About” menu with the Android version and Linux kernel info.
+<img src="images/phone-about.png" alt="Android About Phone menu" width="250"/>  
+Screenshot showing my phone's 'About' menu with the Android version and Linux kernel information. It indicates that the device is running Linux kernel version 4.14.186, which is commonly used in Android devices.
 
 ### 2. My Home Wi-Fi Router
 
