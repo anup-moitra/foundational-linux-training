@@ -14,7 +14,7 @@ Here are the devices and services I personally use that rely on Linux:
 - **Tablet or eReader:** Amazon Kindle 11th Gen – powered by a customized Linux-based OS
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
 - **Smart Appliances:** [Any smart fridge, oven, or other appliance you own]
-- **Other discoveries:** [Any additional Linux-powered device you found]
+- **Extended Setup – DIY Smart Display:** Repurposed an old laptop with Chromium OS (open-source Chrome OS, Linux-based), connected to my TV via HDMI. This setup effectively transformed the TV into a smart Linux-powered display, even though the TV itself doesn't run Linux natively.
 
 ## 📸 Proof: My Images & Screenshots
 
@@ -40,6 +40,11 @@ My TV's settings screen shows it runs Android TV OS version 11, which is based o
 <img src="images/kindle-about.png" alt="Kindle Device Information"/>  
 Screenshot from my Kindle 11th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
 
+### 5. My DIY Smart Display Setup
+
+<img src="images/chromiumos-tv.png" alt="Chromium OS on TV via HDMI"/>  
+I installed Chromium OS (the open-source base for Chrome OS, which runs on the Linux kernel) on an old laptop. By connecting it to my TV via HDMI, I effectively turned the TV into a Linux-powered smart display for browsing, streaming, and cloud access.
+
 ## 🔗 Research Highlights
 
 During this project, I also looked up specific brands and official sources to confirm Linux use:
@@ -49,11 +54,11 @@ During this project, I also looked up specific brands and official sources to co
 - **Smart TV:** My TV runs Android TV OS, which uses the Linux kernel as its foundation.
 - **Kindle:** Amazon Kindle eReaders use a customized Linux-based operating system.
 - **Web services:** Popular services like YouTube and Dropbox operate on Linux servers.
-- **Other devices:** I consulted manufacturer websites when device settings didn’t specify the OS.
+- **Chromium OS:** Chromium OS is the open-source version of Chrome OS, both built on the Linux kernel and designed to run lightweight, browser-based systems.
 
 ## 💡 What I Learned
 
-This project was an eye-opener! I was surprised to find Linux everywhere—from my phone, router, and Kindle to apps and appliances I use daily. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
+This project was an eye-opener! I was surprised to find Linux everywhere—from my phone, router, and Kindle to apps and appliances I use daily. Even more interesting was experimenting with my own Linux-powered setup by installing Chromium OS on old hardware. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
 
 > "It’s fascinating how so many of my devices quietly rely on Linux even when I never see it directly."
 
@@ -62,7 +67,8 @@ This project was an eye-opener! I was surprised to find Linux everywhere—from 
 1. I identified my daily tech and home devices.
 2. I checked “about” screens, device websites, and manuals for Linux references.
 3. I took my own photos and screenshots as proof.
-4. I summarized my findings, research, and personal reflections here.
+4. I even repurposed old hardware to explore Linux usage hands-on.
+5. I summarized my findings, research, and personal reflections here.
 
 This project demonstrates my ability to connect foundational concepts to real-world examples and my curiosity in exploring technology beyond the surface. I look forward to building more hands-on projects as I progress!
 
