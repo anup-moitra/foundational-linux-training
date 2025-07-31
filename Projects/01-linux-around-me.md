@@ -28,7 +28,7 @@ Snapshot showing my phone's 'About' menu with the Android version and Linux kern
 ### 2. My Home Wi-Fi Router
 
 ![Router firmware information](images/router-info.jpg)  
-Photo of my router's admin panel, confirming [OpenWRT/Linux-based firmware].
+Screenshot of my router's admin panel confirming it's running OpenWrt 23.05.3 — a Linux-based firmware designed for routers, with Linux kernel version 5.15.150.
 
 ### 3. My Smart TV
 
