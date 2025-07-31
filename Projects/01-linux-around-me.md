@@ -11,7 +11,7 @@ Here are the devices and services I personally use that rely on Linux:
 - **Phone:** Android smartphone – runs the Linux kernel
 - **Home Wi-Fi Router:** Linksys/WRT3200ACM – uses OpenWRT/Linux-based firmware
 - **Smart TV:** Xiaomi/MiTV-AXFR0 – runs Android TV OS (Linux kernel-based)
-- **Tablet or eReader:** Amazon Kindle 10th Gen – powered by a customized Linux-based OS
+- **Tablet or eReader:** Amazon Kindle 11th Gen – powered by a customized Linux-based OS
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
 - **Smart Appliances:** [Any smart fridge, oven, or other appliance you own]
 - **Other discoveries:** [Any additional Linux-powered device you found]
@@ -27,20 +27,18 @@ Snapshot showing my phone's 'About' menu with the Android version and Linux kern
 
 ### 2. My Home Wi-Fi Router
 
-<img src="images/router-info.jpg" alt="Router firmware information" width="350"/>  
+<img src="images/router-info.jpg" alt="Router firmware information"/>  
 Screenshot of my router's admin panel confirming it's running OpenWrt 23.05.3—a Linux-based firmware for routers, built with Linux kernel version 5.15.150.
 
 ### 3. My Smart TV
 
-<img src="images/smart-tv-settings.png" alt="Smart TV settings" width="350"/>  
+<img src="images/smart-tv-settings.png" alt="Smart TV settings"/>  
 My TV's settings screen shows it runs Android TV OS version 11, which is based on the Android operating system that uses the Linux kernel (version 5.4.125), confirming it is a Linux-based system.
 
 ### 4. My Kindle eReader
 
-<img src="images/kindle-about.png" alt="Kindle Device Information" width="250"/>  
-Screenshot from my Kindle 10th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
-
-*All images are stored in the `/images/` subfolder of this project.*
+<img src="images/kindle-about.png" alt="Kindle Device Information"/>  
+Screenshot from my Kindle 11th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
 
 ## 🔗 Research Highlights
 
