@@ -9,7 +9,7 @@ As part of my foundational Linux learning journey, I explored and documented whe
 Here are the devices and services I personally use that rely on Linux:
 
 - **Phone:** Android smartphone – runs the Linux kernel
-- **Home Wi-Fi Router:** [Insert Brand/Model] – uses [OpenWRT/Linux-based firmware if applicable]
+- **Home Wi-Fi Router:** [Linksys/WRT3200ACM] – uses [OpenWRT/Linux-based firmware if applicable]
 - **Smart TV:** [Insert Brand/Model] – powered by Linux-based OS
 - **Tablet or eReader:** [Insert Device] – Linux (for example, Kindle eReader)
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
