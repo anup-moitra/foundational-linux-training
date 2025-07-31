@@ -10,8 +10,8 @@ Here are the devices and services I personally use that rely on Linux:
 
 - **Phone:** Android smartphone – runs the Linux kernel
 - **Home Wi-Fi Router:** Linksys/WRT3200ACM – uses OpenWRT/Linux-based firmware
-- **Smart TV:** Xiaomi/MiTV-AXFR0 – powered by Linux-based OS
-- **Tablet or eReader:** [Insert Device] – Linux (for example, Kindle eReader)
+- **Smart TV:** Xiaomi/MiTV-AXFR0 – runs Android TV OS (Linux kernel-based)
+- **Tablet or eReader:** Amazon Kindle 10th Gen – powered by a customized Linux-based OS
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
 - **Smart Appliances:** [Any smart fridge, oven, or other appliance you own]
 - **Other discoveries:** [Any additional Linux-powered device you found]
@@ -27,13 +27,18 @@ Snapshot showing my phone's 'About' menu with the Android version and Linux kern
 
 ### 2. My Home Wi-Fi Router
 
-![Router firmware information](images/router-info.jpg)  
-Screenshot of my router's admin panel confirming it's running OpenWrt 23.05.3 — a Linux-based firmware designed for routers, with Linux kernel version 5.15.150.
+<img src="images/router-info.jpg" alt="Router firmware information" width="350"/>  
+Screenshot of my router's admin panel confirming it's running OpenWrt 23.05.3—a Linux-based firmware for routers, built with Linux kernel version 5.15.150.
 
 ### 3. My Smart TV
 
-![Smart TV settings](images/smart-tv-settings.png)  
+<img src="images/smart-tv-settings.png" alt="Smart TV settings" width="350"/>  
 My TV's settings screen shows it runs Android TV OS version 11, which is based on the Android operating system that uses the Linux kernel (version 5.4.125), confirming it is a Linux-based system.
+
+### 4. My Kindle eReader
+
+<img src="images/kindle-about.png" alt="Kindle Device Information" width="250"/>  
+Screenshot from my Kindle 10th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
 
 *All images are stored in the `/images/` subfolder of this project.*
 
@@ -41,15 +46,16 @@ My TV's settings screen shows it runs Android TV OS version 11, which is based o
 
 During this project, I also looked up specific brands and official sources to confirm Linux use:
 
-- **Android:** Based on official Android documentation, Android is built on the Linux kernel.
+- **Android:** Based on official Android documentation, Android OS is built on the Linux kernel.
 - **Routers:** Many routers (including mine) run OpenWRT or DD-WRT, which are Linux-based.
-- **Smart TV:** My TV uses Tizen, webOS, or another Linux-based system.
+- **Smart TV:** My TV runs Android TV OS, which uses the Linux kernel as its foundation.
+- **Kindle:** Amazon Kindle eReaders use a customized Linux-based operating system.
 - **Web services:** Popular services like YouTube and Dropbox operate on Linux servers.
 - **Other devices:** I consulted manufacturer websites when device settings didn’t specify the OS.
 
 ## 💡 What I Learned
 
-This project was an eye-opener! I was surprised to find Linux everywhere from my phone and router to apps and appliances I use daily. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
+This project was an eye-opener! I was surprised to find Linux everywhere—from my phone, router, and Kindle to apps and appliances I use daily. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
 
 > "It’s fascinating how so many of my devices quietly rely on Linux even when I never see it directly."
 
