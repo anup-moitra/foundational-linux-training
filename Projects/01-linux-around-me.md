@@ -10,7 +10,7 @@ Here are the devices and services I personally use that rely on Linux:
 
 - **Phone:** Android smartphone – runs the Linux kernel
 - **Home Wi-Fi Router:** Linksys/WRT3200ACM – uses OpenWRT/Linux-based firmware
-- **Smart TV:** [Insert Brand/Model] – powered by Linux-based OS
+- **Smart TV:** Xiaomi/MiTV-AXFR0 – powered by Linux-based OS
 - **Tablet or eReader:** [Insert Device] – Linux (for example, Kindle eReader)
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
 - **Smart Appliances:** [Any smart fridge, oven, or other appliance you own]
@@ -33,7 +33,7 @@ Screenshot of my router's admin panel confirming it's running OpenWrt 23.05.3 �
 ### 3. My Smart TV
 
 ![Smart TV settings](images/smart-tv-settings.png)  
-My TV’s settings screen showing it runs a Linux-based operating system.
+My TV's settings screen shows it runs Android TV OS version 11, which is based on the Android operating system that uses the Linux kernel (version 5.4.125), confirming it is a Linux-based system.
 
 *All images are stored in the `/images/` subfolder of this project.*
 
