@@ -13,7 +13,7 @@ Here are the devices and services I personally use that rely on Linux:
 - **Smart TV:** Xiaomi/MiTV-AXFR0 – runs Android TV OS (Linux kernel-based)
 - **Tablet or eReader:** Amazon Kindle 11th Gen – powered by a customized Linux-based OS
 - **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
-- **Smart Appliances:** [Any smart fridge, oven, or other appliance you own]
+- **Smart Appliances:** Amazon Echo Spot – this smart speaker runs a customized Linux-based OS, used for Alexa voice interactions, smart home control, and media playback.
 - **Extended Setup – DIY Smart Display:** Repurposed an old laptop with Chromium OS (open-source Chrome OS, Linux-based), connected to my TV via HDMI. This setup effectively transformed the TV into a smart Linux-powered display, even though the TV itself doesn't run Linux natively.
 
 ## 📸 Proof: My Images & Screenshots
