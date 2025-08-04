@@ -58,7 +58,7 @@ During this project, I also looked up specific brands and official sources to co
 
 ## 💡 What I Learned
 
-This project was an eye-opener! I was surprised to discover Linux in so many places, from my phone, router, and Kindle to the apps and appliances I use every day. What made it even more interesting was experimenting with my own Linux-powered setup by installing Chromium OS on old hardware. This hands-on audit helped me truly appreciate the practicality and reach of Linux, bridging course theory with real-life applications.
+This project was an eye-opener! I was surprised to find Linux everywhere—from my phone, router, and Kindle to apps and appliances I use daily. Even more interesting was experimenting with my own Linux-powered setup by installing Chromium OS on old hardware. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
 
 > "It’s fascinating how so many of my devices quietly rely on Linux even when I never see it directly."
 
