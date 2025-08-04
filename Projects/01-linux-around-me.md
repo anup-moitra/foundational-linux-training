@@ -42,7 +42,7 @@ Snapshot of my Kindle 11th Gen's device information screen. Amazon Kindles run a
 
 ### 5. My DIY Smart Display Setup
 
-<img src="images/chromiumos-tv.png" alt="Chromium OS on TV via HDMI"/>  
+<img src="images/chromiumos-tv.png" alt="Chromium OS on TV via HDMI" width="750"/>  
 I installed Chromium OS (the open-source base for Chrome OS, which runs on the Linux kernel) on an old laptop. By connecting it to my TV via HDMI, I effectively turned the TV into a Linux-powered smart display for browsing, streaming, and cloud access.
 
 ## 🔗 Research Highlights
