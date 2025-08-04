@@ -72,4 +72,4 @@ Linux’s success is built on the principles of **open source** and **collaborat
 The history of Linux is a story of innovation, openness, and global collaboration. What began as a small hobby project has grown into a dominant force in computing, powering everything from smartphones to supercomputers. This inspiring journey reminds us that open collaboration and determination can create technology that changes the world.
 
 > 💡 **Next Up:**  
-> Since Linux was inspired by Unix, understanding the key differences between these two operating systems will give you deeper insights into Linux’s design and functionality—which we will explore in the next chapter.
+> Since Linux was inspired by Unix, understanding the key differences between these two operating systems will give you deeper insights into Linux’s design and functionality, which we will explore in the next chapter.
