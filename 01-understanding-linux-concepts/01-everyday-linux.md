@@ -57,10 +57,10 @@ As our homes become smarter, Linux powers more gadgets:
 
 ### 💻 Related Project
 
-Curious to see Linux in real devices? Here’s a hands-on project I created to document Linux in my daily life:  
+To deepen my understanding, I created a hands-on project where I explored and documented Linux in the devices I use every day:  
 [Project 01: Linux Around Me](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/01-linux-around-me.md)
 
-Feel free to explore as it shows how these concepts connect to real life, and might inspire you to do the same!
+Feel free to explore—it shows how these concepts connect to real life, and might inspire you to do the same!
 
 ### 🏁 Conclusion
 
