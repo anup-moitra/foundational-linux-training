@@ -28,7 +28,7 @@ Installing Linux is similar to installing other operating systems, but offers mu
 1. Starting the Installation Process:  
    When you power on a computer without an operating system, it becomes a non-functional "brick."  
 2. Booting with Installation Media:  
-   Instead of using a traditional DVD or CD, most people now use an **ISO image**—a digital copy of a DVD stored as a single large file. You can create a bootable USB stick from this file to begin installation.  
+   Instead of using a traditional DVD or CD, most people now use an **ISO image**, which is a digital copy of a DVD stored as a single large file. You can create a bootable USB stick from this file to begin installation.  
 3. Completing the Setup:  
    During installation, you configure partitions, create user accounts, and set system services.  
 4. Welcome to Linux!  
