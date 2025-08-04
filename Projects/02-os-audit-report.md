@@ -37,7 +37,7 @@ If there was no operating system:
 
 - I couldn't launch apps, save or move files, connect my devices, or secure my data.
 - Hardware resources would go unmanaged and using the device would be impossible for non-technical users.
-- Each device’s OS makes it usable for its intended tasks—whether that’s productive work, entertainment, or communication.
+- Each device’s OS makes it usable for its intended tasks, whether that’s productive work, entertainment, or communication.
 
 ## 🏁 Conclusion
 
