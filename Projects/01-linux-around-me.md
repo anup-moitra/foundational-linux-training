@@ -38,7 +38,7 @@ My TV's settings screen shows it runs Android TV OS version 11, which is based o
 ### 4. My Kindle eReader
 
 <img src="images/kindle-about.png" alt="Kindle Device Information"/>  
-Screenshot from my Kindle 11th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
+Snapshot of my Kindle 11th Gen's device information screen. Amazon Kindles run a customized operating system built on the Linux kernel, confirming they are Linux-powered devices.
 
 ### 5. My DIY Smart Display Setup
 
