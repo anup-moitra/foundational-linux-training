@@ -78,7 +78,7 @@ Linux is the top choice for hosting web applications and powering cloud services
 - CentOS
 - Red Hat Enterprise Linux (RHEL)
 
-Major cloud providers—Amazon Web Services (AWS), Google Cloud, and Microsoft Azure—extensively use Linux-based systems and container orchestration technologies like Kubernetes.
+Major cloud providers such as Amazon Web Services (AWS), Google Cloud, and Microsoft Azure extensively use Linux-based systems and container orchestration technologies like Kubernetes.
 
 ## 7️⃣ Supercomputers and Research Facilities
 
