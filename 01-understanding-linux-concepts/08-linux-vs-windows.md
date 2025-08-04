@@ -34,7 +34,7 @@ In this chapter, you will explore the essential distinctions between these two o
 ## 4️⃣ Command Line Interface (CLI)
 
 - **Linux** is built around a powerful command line, typically accessed through Bash or other shells, making automation and system management efficient for advanced users.
-- **Windows** includes **Command Prompt** and **PowerShell**. PowerShell has become a powerful tool for scripting and automation, especially in modern Windows, but many day-to-day tasks are performed through the GUI.
+- **Windows** includes **Command Prompt** and **PowerShell**. PowerShell is increasingly powerful and cross-platform, allowing users to automate and script across operating systems, but many day-to-day tasks on Windows are still performed through the GUI.
 
 ## 5️⃣ Software Installation and Package Management
 
@@ -46,7 +46,7 @@ In this chapter, you will explore the essential distinctions between these two o
 
 ## 6️⃣ Security
 
-- **Linux** is widely recognized for robust security with granular permission settings, rapid vulnerability patching, and a lower target for malware due to open-source transparency.
+- **Linux** is widely recognized for robust security, with granular permission settings, rapid vulnerability patching, and a lower target for malware due to open-source transparency.
 - **Windows** security has improved significantly with Windows Defender and frequent updates, but being the most ubiquitous desktop OS makes it a frequent target for malware and exploits.
 
 ## 7️⃣ Stability and Performance
@@ -56,44 +56,44 @@ In this chapter, you will explore the essential distinctions between these two o
 
 ## 8️⃣ File System Structure
 
-- **Linux** uses file systems such as **ext4**, **XFS**, and **Btrfs** with a single, hierarchical directory tree rooted at `/` where everything (including devices) is treated as a file.
+- **Linux** uses file systems such as **ext4**, **XFS**, and **Btrfs** with a single, hierarchical directory tree rooted at `/`, where everything (including devices) is treated as a file.
 - **Windows** uses file systems like **NTFS** and **FAT32**, organizes files by assigning drive letters (e.g., `C:\`, `D:\`), and separates system, application, and user files into distinct folders.
 
 ## 9️⃣ Customization
 
 - **Linux** is highly customizable at every level, from modifying the kernel and desktop environment to scripting and automation for specific workflows.
-- **Windows** offers user-level customization of themes and UI, but system-level customization is limited unless using advanced PowerShell scripts or registry hacks.
+- **Windows** offers user-level customization of themes and UI, but system-level customization is limited unless using advanced PowerShell scripts or registry edits.
 
 ## 🔟 Use Cases
 
-- **Linux** is preferred for:  
-  - Servers and web hosting  
-  - Cybersecurity and penetration testing  
-  - Networking infrastructure  
-  - Software development environments  
+- **Linux** is preferred for:
+  - Servers and web hosting
+  - Cybersecurity and penetration testing
+  - Networking infrastructure
+  - Software development environments
 
-- **Windows** is preferred for:  
-  - Personal desktops and laptops  
-  - Gaming  
-  - Business applications and office productivity  
+- **Windows** is preferred for:
+  - Personal desktops and laptops
+  - Gaming (with the largest game library and support)
+  - Business applications and office productivity
 
-### 💡 Quick Comparison Table
+## 💡 Quick Comparison Table
 
-| Feature                | Linux                                          | Windows                                 |
-|------------------------|-----------------------------------------------|----------------------------------------|
-| **Source Code**        | Open source, freely modifiable                 | Proprietary, closed source             |
-| **Cost**               | Free in most cases, paid enterprise support    | Paid license usually required          |
-| **GUI Options**        | Multiple DEs (GNOME, KDE, XFCE, etc.)          | Standardized Windows GUI               |
-| **Command Line**       | Powerful, essential for system management      | Growing (PowerShell), still GUI-based  |
-| **Software Management**| Package managers (APT, YUM, DNF, etc.)         | .exe, .msi files, Microsoft Store      |
-| **Security**           | Strong permissions, fewer malware threats      | Frequent target, improved with updates |
-| **Stability**          | Very high, rare reboots required               | Can slow down, reboots often needed    |
-| **Customization**      | Highly customizable system-wide                | Mostly limited to user settings        |
-| **Primary Use Cases**  | Servers, dev, cybersecurity, cloud             | Desktops, gaming, business             |
+| Feature                | Linux                                         | Windows                                 |
+|------------------------|-----------------------------------------------|-----------------------------------------|
+| **Source Code**        | Open source, freely modifiable                | Proprietary, closed source              |
+| **Cost**               | Free in most cases, paid enterprise support   | Paid license usually required           |
+| **GUI Options**        | Multiple DEs (GNOME, KDE, XFCE, etc.)         | Standardized Windows GUI                |
+| **Command Line**       | Powerful, essential for system management     | Growing (PowerShell), still GUI-based   |
+| **Software Management**| Package managers (APT, YUM, DNF, etc.)        | .exe, .msi files, Microsoft Store       |
+| **Security**           | Strong permissions, fewer malware threats     | Frequent target, improved with updates  |
+| **Stability**          | Very high, rare reboots required              | Can slow down, reboots often needed     |
+| **Customization**      | Highly customizable system-wide               | Mostly limited to user settings         |
+| **Primary Use Cases**  | Servers, dev, cybersecurity, cloud            | Desktops, gaming, business              |
 
 ## ✅ Conclusion
 
-Both **Linux** and **Windows** have unique advantages. Linux stands out for security, stability, flexibility, and server/cloud leadership, while Windows dominates desktop and user-friendly environments. Understanding these differences equips you to make informed choices for your IT career, system design, and troubleshooting.
+Both **Linux** and **Windows** have unique advantages. Linux stands out for security, stability, flexibility, and server/cloud leadership, while Windows dominates desktop and user-friendly environments. Understanding these differences equips you to make informed choices for your IT career, system design, and troubleshooting. Power users and developers may even leverage the Windows Subsystem for Linux (WSL) as a bridge to combine strengths of both OSes in one environment.
 
 > 💡 **Next Up:**  
 > With this, you have completed Module 1: Understanding Linux Concepts. Next, you will set up your virtual lab environment—an essential step for hands-on Linux learning and practical skill development.
