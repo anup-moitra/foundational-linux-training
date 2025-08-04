@@ -10,8 +10,8 @@ In this chapter, you will discover the key groups and industries that rely on Li
 
 ### 📚 What We Will Learn
 
-- The main industries and sectors where Linux is used
-- Real-world examples of organizations that depend on Linux
+- The main industries and sectors where Linux is used  
+- Real-world examples of organizations that depend on Linux  
 - Reasons why Linux is chosen for critical environments
 
 ## 1️⃣ Developers and Programmers
@@ -30,7 +30,7 @@ Schools and universities adopt Linux to:
 
 - Teach core concepts in computer science, networking, and cybersecurity
 - Enable research projects that need control and customization
-- Offer free and open-source software to reduce infrastructure costs
+- Offer free and open-source software, helping reduce licensing costs for academic institutions
 
 Commonly used distributions in education include **Ubuntu**, **Debian**, and **Fedora**.
 
@@ -65,7 +65,7 @@ Leading technology companies are some of the biggest backers and adopters of Lin
 - **Google** (for Search, Android, servers)
 - **Facebook** (for global infrastructure)
 - **Amazon** (with AWS cloud services)
-- **Microsoft** (with Azure and WSL)
+- **Microsoft** (with Azure and Windows Subsystem for Linux, showcasing growing collaboration)
 - **Oracle**, **IBM**, and **Intel**
 
 These companies use Linux to power cloud platforms, search engines, and large-scale data processing.
@@ -78,7 +78,7 @@ Linux is the top choice for hosting web applications and powering cloud services
 - CentOS
 - Red Hat Enterprise Linux (RHEL)
 
-Major cloud providers—Amazon Web Services (AWS), Google Cloud, and Microsoft Azure—all rely extensively on Linux-based systems for their infrastructure.
+Major cloud providers—Amazon Web Services (AWS), Google Cloud, and Microsoft Azure—extensively use Linux-based systems and container orchestration technologies like Kubernetes.
 
 ## 7️⃣ Supercomputers and Research Facilities
 
@@ -104,7 +104,7 @@ Linux is the backbone for animation, film production, and streaming services tha
 - Sony Pictures
 - Netflix
 
-use Linux for 3D rendering, video editing, content management, and secure media workflows.
+also benefit from Linux’s scripting and automation capabilities that support complex workflows.
 
 ## 🔟 Other Industries Using Linux
 
