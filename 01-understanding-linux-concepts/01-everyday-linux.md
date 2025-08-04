@@ -60,6 +60,8 @@ As our homes become smarter, Linux powers more gadgets:
 Curious to see Linux in real devices? Here’s a hands-on project I created to document Linux in my daily life:  
 [Project 01: Linux Around Me](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/01-linux-around-me.md)
 
+Feel free to explore as it shows how these concepts connect to real life, and might inspire you to do the same!
+
 ### 🏁 Conclusion
 
 From smartphones and smart homes to cloud computing and car navigation, **Linux** works quietly behind the scenes. Its power, stability, and flexibility make it the heart of modern technology.
