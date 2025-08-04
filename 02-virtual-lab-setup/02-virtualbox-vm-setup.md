@@ -1,75 +1,86 @@
-# **Module 2: Virtual Lab Setup**  
+# Module 2: Virtual Lab Setup
 
-## **Chapter 2: Creating and Configuring a Virtual Machine**  
+## Chapter 2: Creating and Configuring a Virtual Machine
 
-### **📝 Introduction**  
-In this chapter, we will guide you through the process of creating and configuring a virtual machine (VM) using **VirtualBox**. This is a crucial step in preparing for the next chapter, where we’ll demonstrate how to download, install, and set up **CentOS Stream 9**, a popular Linux distribution, within this virtual environment.
+### 📝 Introduction
+
+Setting up a virtual machine (VM) using **VirtualBox** is a crucial step for practicing Linux in a controlled, safe environment. In this chapter, you will learn how to create and configure a VM that will later host **CentOS Stream 9**, preparing you for the next installation steps.
 
 ---
 
-### **👇 Step-by-Step Instructions**  
+### 📚 What Will You Learn?
 
-#### **🚀 1. Launch VirtualBox**  
-- Start by opening **VirtualBox** from your system's application menu or desktop shortcut.  
+- How to create a new virtual machine in VirtualBox  
+- How to configure hardware settings such as RAM and CPU  
+- How to set up storage options, including the virtual hard disk  
+- How to configure network settings for proper VM connectivity
 
-#### **🖥️ 2. Create a New Virtual Machine**  
-1. Click the **“New”** button to initiate the virtual machine setup wizard.  
-2. Assign a name to the VM, e.g., **"CentOS Stream 9"**. This name is used within **VirtualBox** and is separate from the hostname, which will be configured during OS installation.  
-3. Choose the folder for VM files (e.g., `C:\Users\<YourUsername>\VirtualBox VMs`). Ensure the location has enough space.  
-4. Leave the **ISO image** field blank for now; we’ll configure it during OS installation in the next chapter.  
-5. Select **Linux** as the type and set the version to **Red Hat (64-bit)** to match CentOS Stream 9 (64-bit).  
-6. Skip the **Unattended Installation** option to allow manual OS installation with customization.  
-7. Configure **Hardware Settings**:  
-   - Allocate at least **2 GB (2048 MB)** of RAM (adjust based on system resources).  
-   - Keep the default **1 CPU core** or increase it later for better performance.  
-8. Configure **Storage Settings**:  
-   - Create a **new virtual hard disk** or select an existing one.  
+---
+
+### 🔧 Step-by-Step Instructions
+
+#### 🚀 1. Launch VirtualBox
+
+- Open **VirtualBox** from your system’s application menu or desktop shortcut.
+
+#### 🖥️ 2. Create a New Virtual Machine
+
+1. Click the **New** button to start the virtual machine creation wizard.  
+2. Enter a name for the VM, e.g., **CentOS Stream 9**. This name identifies the VM within VirtualBox.  
+3. Select the folder location for VM files. Ensure there is enough disk space available.  
+4. Leave the **ISO image** field blank for now; this will be configured during the OS installation chapter.  
+5. Select **Linux** as the type and choose **Red Hat (64-bit)** as the version to match CentOS Stream 9.  
+6. Skip the **Unattended Installation** option to allow manual setup during OS installation.  
+7. Configure hardware:  
+   - Allocate at least **2048 MB (2 GB)** RAM. Adjust based on your system capabilities.  
+   - Use the default **1 CPU core**, or increase if your system supports it.  
+8. Configure storage:  
+   - Create a new virtual hard disk or select an existing one.  
    - Choose **VDI (VirtualBox Disk Image)** as the disk type.  
-   - Decide between **dynamically allocated** or **fixed size**.  
-   - Set the hard disk size to **at least 20 GB** for the OS and additional software.  
+   - Select **dynamically allocated** or **fixed size** depending on preference.  
+   - Set the size to at least **20 GB** to accommodate the OS and software.
+
+#### 🌐 3. Configure Network Settings
+
+1. Select the created VM and click **Settings**.  
+2. Go to the **Network** tab.  
+3. Ensure the network adapter is enabled.  
+4. By default, the adapter uses **NAT** for internet access.  
+5. For enhanced connectivity, change to **Bridged Adapter** to place the VM on your local network.  
+6. Click **OK** to save settings.
 
 ---
 
-### **🌐 Configuring Network Settings**  
+### 📸 Screenshots
 
-1. After the VM is created, select it and click on the **“Settings”** button.  
-2. Navigate to the **Network** tab:  
-   - Ensure the network adapter is enabled.  
-   - By default, it’s set to **NAT**, providing basic network access.  
-   - For enhanced connectivity, change it to **Bridged Adapter**, placing the VM on the same network as your host machine.  
-3. Click **OK** to save the settings.  
+**Figure 1:** VirtualBox Main Window with **New** Button  
+![VirtualBox Main Window](screenshots/00-virtualbox-main-window-new-button-highlighted.png)
 
----
+**Figure 2:** VM Creation Wizard – Name, Path, OS Type, and Version  
+![VM Creation Wizard - Name, Path, OS Type, and Version](screenshots/01-vm-creation-wizard-name-path-os-type-version.png)
 
-### **📸 Screenshots**  
+**Figure 3:** VM Creation Wizard – Hardware Configuration  
+![VM Creation Wizard - Hardware Configuration](screenshots/02-vm-creation-wizard-os-type-version-selection.png)
 
-#### **1️⃣ VirtualBox Main Window**  
-![VirtualBox Main Window](screenshots/00-virtualbox-main-window-new-button-highlighted.png)  
-*Figure 1: Locate the "New" button to start creating a new VM.*
+**Figure 4:** VM Creation Wizard – Hard Disk Configuration  
+![VM Creation Wizard - Hard Disk Configuration](screenshots/03-vm-creation-wizard-hard-disk-configuration.png)
 
-#### **2️⃣ VM Creation Wizard - Name, Path, OS Type, and Version**  
-![VM Creation Wizard - Name, Path, OS Type, and Version](screenshots/01-vm-creation-wizard-name-path-os-type-version.png)  
-*Figure 2: Enter the VM name, specify the path, and select the OS type and version.*
+**Figure 5:** Accessing VM Settings  
+![Accessing the VM Settings](screenshots/04-accessing-vm-settings.png)
 
-#### **3️⃣ VM Creation Wizard - Hardware Configuration**  
-![VM Creation Wizard - Hardware Configuration](screenshots/02-vm-creation-wizard-os-type-version-selection.png)  
-*Figure 3: Allocate RAM and configure processors for the VM.*
-
-#### **4️⃣ VM Creation Wizard - Hard Disk Configuration**  
-![VM Creation Wizard - Hard Disk Configuration](screenshots/03-vm-creation-wizard-hard-disk-configuration.png)  
-*Figure 4: Create or select a virtual hard disk.*
-
-#### **5️⃣ Accessing the VM Settings**  
-![Accessing the VM Settings](screenshots/04-accessing-vm-settings.png)  
-*Figure 5: Open the “Settings” menu to adjust configurations.*
-
-#### **6️⃣ Configuring the Network Adapter**  
-![Configuring the Network Adapter](screenshots/05-configuring-network-adapter.png)  
-*Figure 6: Change the network adapter to **Bridged Adapter** for enhanced connectivity.*
+**Figure 6:** Network Adapter Configuration – Bridged Adapter  
+![Configuring the Network Adapter](screenshots/05-configuring-network-adapter.png)
 
 ---
 
-### **🎯 Conclusion**  
-Your virtual machine is now created and ready for the next step. In the upcoming chapter, we’ll guide you through downloading the **CentOS Stream 9** ISO image, attaching it to the VM, and detailing the installation process.  
+### 🎯 Key Takeaways
+
+- You have successfully created a new VM tailored for Linux installation.  
+- Hardware and storage are configured to meet minimum requirements for CentOS Stream 9.  
+- Network settings are optimized to provide internet access and potential local network connectivity.  
+- This VM is ready for ISO attachment and OS installation in the next chapter.
 
 ---
+
+This marks a major step toward building your Linux virtual lab, enabling you to safely explore and master Linux concepts hands-on.
+
