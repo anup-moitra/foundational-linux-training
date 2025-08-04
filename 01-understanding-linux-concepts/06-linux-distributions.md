@@ -64,7 +64,7 @@ Selecting a distribution depends on your experience and objectives:
 
 ## 4️⃣ Recommended Distro for Career Growth
 
-For those aiming to work in enterprise IT or cybersecurity—such as aspiring System Administrators or Security Operations Center (SOC) Analysts—familiarity with **CentOS Stream** or **RHEL** is highly beneficial. These distributions dominate business and cloud environments and set the standard for server administration and security best practices.
+For those aiming to work in enterprise IT or cybersecurity, such as aspiring System Administrators or Security Operations Center (SOC) Analysts, familiarity with **CentOS Stream** or **RHEL** is highly beneficial. These distributions dominate business and cloud environments and set the standard for server administration and security best practices.
 
 - **CentOS Stream** offers a no-cost, RHEL-like environment to practice and build enterprise skills.
 - Knowledge of Ubuntu or Debian is also valuable as they are popular for development and cloud services.
