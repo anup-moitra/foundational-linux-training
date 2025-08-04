@@ -96,4 +96,4 @@ In this chapter, you will explore the essential distinctions between these two o
 Both **Linux** and **Windows** have unique advantages. Linux stands out for security, stability, flexibility, and server/cloud leadership, while Windows dominates desktop and user-friendly environments. Understanding these differences equips you to make informed choices for your IT career, system design, and troubleshooting. Power users and developers may even leverage the Windows Subsystem for Linux (WSL) as a bridge to combine strengths of both OSes in one environment.
 
 > 💡 **Next Up:**  
-> With this, you have completed Module 1: Understanding Linux Concepts. Next, you will set up your virtual lab environment—an essential step for hands-on Linux learning and practical skill development.
+> With this, we have completed Module 1: Understanding Linux Concepts. Next, we will set up our virtual lab environment, an essential step for hands-on Linux learning and practical skill development.
