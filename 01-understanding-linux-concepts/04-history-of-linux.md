@@ -24,7 +24,7 @@ Before Linux, there was **UNIX**. Developed in 1970 at **AT&T Bell Labs** by **K
 In 1983, **Richard Stallman** launched the **GNU Project** (GNU stands for "**GNU's Not UNIX**") with the goal of creating a **free and open-source UNIX-like operating system**.
 
 - The GNU Project delivered essential components such as the **GNU Compiler Collection (GCC)**, **Bash shell**, and core utilities.
-- However, the project lacked a crucial piece: the **kernel**—the core software that interacts directly with hardware.
+- However, the project lacked a crucial piece: the **kernel**, the core software that interacts directly with hardware.
 
 ## 3️⃣ The Birth of Linux
 
