@@ -4,9 +4,9 @@
 
 ### 🖥️ Introduction
 
-In this chapter, we will guide you through the process of downloading and installing **VirtualBox** on your system. This step will establish the foundational virtual lab required to support your learning of Linux basics and prepare you for future topics.
+In this chapter, we will guide you through downloading and installing **VirtualBox** on your system. This foundational step sets up the virtual lab environment needed for your Linux learning journey.
 
-Before beginning, make sure you have administrator rights on your computer to install new software.
+Make sure you have administrator rights to install software on your computer before proceeding.
 
 ---
 
@@ -14,64 +14,56 @@ Before beginning, make sure you have administrator rights on your computer to in
 
 #### 1️⃣ Download the VirtualBox Installer
 
-1. Visit the [VirtualBox Downloads page](https://www.virtualbox.org/wiki/Downloads).
-2. Select the **latest stable version** installer that matches your operating system (Windows, macOS, or Linux).
+1. Go to the [VirtualBox Downloads page](https://www.virtualbox.org/wiki/Downloads).  
+2. Select the **latest stable version** installer matching your operating system (Windows, macOS, or Linux).  
 3. Download and save the installer file.
 
 #### 2️⃣ Run the Installer
 
-1. After downloading, launch the installer.
-2. Follow the on-screen instructions:
-   - Select the installation location (default is usually fine).
-   - Choose additional setup options such as network features and shortcuts.
-3. Click **Install** to begin the installation process.
+1. Launch the installer file you downloaded.  
+2. Follow the on-screen prompts:  
+   - Choose the installation location (default is recommended).  
+   - Select additional setup options, such as network features and shortcuts.  
+3. Click **Install** to start the installation.
 
-> **Note:** On some operating systems, you may need to confirm security or admin prompts during installation.
+> **Note:** You may need to confirm security or administrator prompts depending on your OS.
 
 #### 3️⃣ Verify Installation
 
-1. Once installed, open **VirtualBox**.
-2. Confirm the installation by checking the version number in the menu (`Help > About VirtualBox`).
-3. You should see a window similar to the one below confirming a successful installation.
+1. Open **VirtualBox**.  
+2. Check the version via the menu: `Help > About VirtualBox`.  
+3. You should see a window displaying the version number, confirming successful installation.
 
 ---
 
 ### 📸 Screenshots
 
-#### 1️⃣ VirtualBox Download Page
+**Figure 1:** VirtualBox Download Page  
+![VirtualBox Download Page](screenshots/01-virtualbox-download-page.png)
 
-![VirtualBox Download Page](screenshots/01-virtualbox-download-page.png)  
-*Figure 1: VirtualBox Download Page*
+**Figure 2:** VirtualBox Installer Start  
+![VirtualBox Installer Start](screenshots/02-virtualbox-installer-start.png)
 
-#### 2️⃣ VirtualBox Installer Start
+**Figure 3:** VirtualBox Installation Progress  
+![VirtualBox Installation Progress](screenshots/03-virtualbox-installation-progress.png)
 
-![VirtualBox Installer Start](screenshots/02-virtualbox-installer-start.png)  
-*Figure 2: VirtualBox Installer Start*
+**Figure 4:** VirtualBox Installation Finish  
+![VirtualBox Installation Finish](screenshots/04-virtualbox-installation-finish.png)
 
-#### 3️⃣ VirtualBox Installation Progress
-
-![VirtualBox Installation Progress](screenshots/03-virtualbox-installation-progress.png)  
-*Figure 3: VirtualBox Installation Progress*
-
-#### 4️⃣ VirtualBox Installation Finish
-
-![VirtualBox Installation Finish](screenshots/04-virtualbox-installation-finish.png)  
-*Figure 4: VirtualBox Installation Finish*
-
-#### 5️⃣ VirtualBox First Launch
-
-![VirtualBox First Launch](screenshots/05-virtualbox-first-launch.png)  
-*Figure 5: VirtualBox First Launch*
+**Figure 5:** VirtualBox First Launch  
+![VirtualBox First Launch](screenshots/05-virtualbox-first-launch.png)
 
 ---
 
 ### ⚙️ Post-Installation Configuration (Optional)
 
-- After installation, check your **network settings** in VirtualBox to ensure proper connectivity for your virtual machines.
-- Consider installing the **VirtualBox Extension Pack** for additional features such as USB 2.0/3.0 support, VirtualBox RDP, disk encryption, and improved performance. You can download it from the [VirtualBox website](https://www.virtualbox.org/wiki/Downloads).
+- Review **network settings** in VirtualBox for proper VM connectivity.  
+- Download and install the **VirtualBox Extension Pack** from the [VirtualBox website](https://www.virtualbox.org/wiki/Downloads) for enhanced features (USB 2.0/3.0 support, RDP, disk encryption).  
+- Follow prompts carefully during Extension Pack installation to avoid issues.
 
-> **Note:** Carefully follow installation prompts for the Extension Pack to avoid issues.
+> **Tip:** Installing the Extension Pack is recommended to improve your virtual lab experience but is optional for initial setup.
 
 ---
 
-This guide will help you establish a solid virtual environment foundation to proceed confidently with your Linux learning journey.
+This chapter sets up the virtual machine platform necessary for you to install and experiment with Linux in upcoming lessons. Once VirtualBox is ready, you can confidently proceed to creating your first Linux VM.
+
