@@ -8,13 +8,13 @@ As part of my foundational Linux learning journey, I explored and documented whe
 
 Here are the devices and services I personally use that rely on Linux:
 
-- **Phone:** Android smartphone – runs the Linux kernel
-- **Home Wi-Fi Router:** Linksys/WRT3200ACM – uses OpenWRT/Linux-based firmware
-- **Smart TV:** Xiaomi/MiTV-AXFR0 – runs Android TV OS (Linux kernel-based)
-- **Tablet or eReader:** Amazon Kindle 11th Gen – powered by a customized Linux-based OS
-- **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers
+- **Phone:** Android smartphone – runs the Linux kernel.
+- **Home Wi-Fi Router:** Linksys/WRT3200ACM – uses OpenWRT/Linux-based firmware.
+- **Smart TV:** Xiaomi/MiTV-AXFR0 – runs Android TV OS (Linux kernel-based).
+- **Tablet or eReader:** Amazon Kindle 11th Gen – powered by a customized Linux-based OS.
+- **Cloud Apps I rely on:** YouTube, Gmail, Dropbox – all powered by Linux web servers.
 - **Smart Appliances:** Amazon Echo Spot – this smart speaker runs a customized Linux-based OS, used for Alexa voice interactions, smart home control, and media playback.
-- **Extended Setup – DIY Smart Display:** Repurposed an old laptop with Chromium OS (open-source Chrome OS, Linux-based), connected to my TV via HDMI. This setup effectively transformed the TV into a smart Linux-powered display, even though the TV itself doesn't run Linux natively.
+- **Extended Setup – DIY Smart Display:** Repurposed an old laptop with Chromium OS (the open-source base for Chrome OS, Linux-based), connected to my TV via HDMI. This setup effectively transformed the TV into a smart Linux-powered display, even though the TV itself doesn't run Linux natively.
 
 ## 📸 Proof: My Images & Screenshots
 
@@ -58,7 +58,7 @@ During this project, I also looked up specific brands and official sources to co
 
 ## 💡 What I Learned
 
-This project was an eye-opener! I was surprised to find Linux everywhere—from my phone, router, and Kindle to apps and appliances I use daily. Even more interesting was experimenting with my own Linux-powered setup by installing Chromium OS on old hardware. Doing this hands-on audit helped me appreciate the practicality and reach of Linux, connecting course theory with real things in my life.
+This project was an eye-opener! I was surprised to discover Linux in so many places, from my phone, router, and Kindle to the apps and appliances I use every day. What made it even more interesting was experimenting with my own Linux-powered setup by installing Chromium OS on old hardware. This hands-on audit helped me truly appreciate the practicality and reach of Linux, bridging course theory with real-life applications.
 
 > "It’s fascinating how so many of my devices quietly rely on Linux even when I never see it directly."
 
