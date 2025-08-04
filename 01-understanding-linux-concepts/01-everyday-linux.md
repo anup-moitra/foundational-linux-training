@@ -60,7 +60,7 @@ As our homes become smarter, Linux powers more gadgets:
 To deepen my understanding, I created a hands-on project where I explored and documented Linux in the devices I use every day:  
 [Project 01: Linux Around Me](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/01-linux-around-me.md)
 
-Feel free to explore—it shows how these concepts connect to real life, and might inspire you to do the same!
+Feel free to explore. It shows how these concepts connect to real life and might even inspire you to do the same!
 
 ### 🏁 Conclusion
 
