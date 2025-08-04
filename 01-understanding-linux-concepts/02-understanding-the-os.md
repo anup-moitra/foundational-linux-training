@@ -8,9 +8,9 @@ Before exploring Linux in detail, it’s essential to understand what an **Opera
 
 ### 📚 What Will You Learn?
 
-- What an operating system is and why we need it
-- Core functions that all operating systems handle (with examples)
-- Different types of operating systems and where you’ll find them in real life
+- What an operating system is and why we need it  
+- Core functions that all operating systems handle (with examples)  
+- Different types of operating systems and where you’ll find them in real life  
 
 ## 1️⃣ What is an Operating System?
 
@@ -46,42 +46,42 @@ Operating systems come in many forms, each tuned for specific uses. Here are the
 
 ### Desktop Operating Systems
 
-Made for personal computers and laptops:
-- **Microsoft Windows** — The go-to for most PCs.
-- **macOS** — Apple’s operating system for Mac devices.
+Made for personal computers and laptops:  
+- **Microsoft Windows** — The go-to for most PCs.  
+- **macOS** — Apple’s operating system for Mac devices.  
 - **Linux distributions** (Ubuntu, Fedora, Mint) — Popular with developers and power users.
 
 ### Server Operating Systems
 
-Built to manage networks, applications, and services:
-- **Windows Server** — Used in business networks and data centers.
+Built to manage networks, applications, and services:  
+- **Windows Server** — Used in business networks and data centers.  
 - **Linux Server Distributions** (Ubuntu Server, CentOS, Red Hat) — Power the internet, cloud platforms, and enterprise hosts.
 
 ### Mobile Operating Systems
 
-Optimized for devices like phones and tablets:
-- **Android** — Found on Samsung, OnePlus, and many other smartphones.
+Optimized for devices like phones and tablets:  
+- **Android** — Found on Samsung, OnePlus, and many other smartphones.  
 - **iOS** — Apple’s system for iPhones and iPads.
 
 ### Embedded Operating Systems
 
-Lightweight systems for specialized hardware:
-- **Embedded Linux** — Used in routers, smart TVs, IoT, and home automation.
+Lightweight systems for specialized hardware:  
+- **Embedded Linux** — Used in routers, smart TVs, IoT, and home automation.  
 - **QNX, VxWorks** — Seen in industrial machinery, networking hardware, and critical infrastructure.
 
 ### Real-Time Operating Systems (RTOS)
 
-Designed for devices needing instant responses:
-- **Medical Equipment** — For live patient monitoring.
-- **Automotive (e.g., car ECUs)** — For engine and safety control.
+Designed for devices needing instant responses:  
+- **Medical Equipment** — For live patient monitoring.  
+- **Automotive (e.g., car ECUs)** — For engine and safety control.  
 - **Aerospace Systems** — For flight and navigation systems.
 
 ## 4️⃣ Why Understanding the OS is Important
 
 Knowing what an operating system does gives you a huge step up in IT, cloud, and cybersecurity:
 
-- See how Linux as an OS connects to hardware, controls security, and manages files and processes.
-- Understand the backbone of things you’ll interact with as a cloud engineer, system admin, or security analyst.
+- See how Linux as an OS connects to hardware, controls security, and manages files and processes.  
+- Understand the backbone of things you’ll interact with as a cloud engineer, system admin, or security analyst.  
 - Build confidence to manage Linux environments across laptops, servers, and embedded devices.
 
 ## 🏁 Conclusion
