@@ -13,10 +13,10 @@
 
 ## 💻 Module 2 – Virtual Lab Setup
 
-- Downloading and Installing Oracle VirtualBox  
-- Creating and Configuring a Virtual Machine  
-- Downloading and Installing Linux (CentOS Stream 9)  
-- Taking Snapshots in VirtualBox  
+- [Downloading and Installing Oracle VirtualBox](https://github.com/anup-moitra/foundational-linux-training/blob/main/02-virtual-lab-setup/01-setup-virtualbox.md)  
+- [Creating and Configuring a Virtual Machine](https://github.com/anup-moitra/foundational-linux-training/blob/main/02-virtual-lab-setup/02-virtualbox-vm-setup.md)  
+- [Downloading and Installing Linux (CentOS Stream 9)](https://github.com/anup-moitra/foundational-linux-training/blob/main/02-virtual-lab-setup/03-linux-centos-stream-install.md)  
+- [Taking Snapshots in VirtualBox](https://github.com/anup-moitra/foundational-linux-training/blob/main/02-virtual-lab-setup/04-taking-snapshots-virtualbox.md)  
 
 ## 📂 Module 3 – System Access and File Management
 
