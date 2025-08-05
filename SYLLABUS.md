@@ -4,12 +4,12 @@
 
 - [How We Use Linux Every Day](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/01-everyday-linux.md)  
 - [Understanding the Operating System](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)  
-- [What is Linux?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md)
+- [What is Linux?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md)  
 - [History of Linux](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/04-history-of-linux.md)  
-- Unix vs. Linux  
-- Linux Distributions (Distros)  
-- Who Uses Linux?  
-- Difference Between Linux and Windows  
+- [Unix vs. Linux](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/05-unix-vs-linux.md)  
+- [Linux Distributions (Distros)](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/06-linux-distributions.md)  
+- [Who Uses Linux?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/07-who-uses-linux.md)  
+- [Difference Between Linux and Windows](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/08-linux-vs-windows.md) 
 
 ## 💻 Module 2 – Virtual Lab Setup
 
