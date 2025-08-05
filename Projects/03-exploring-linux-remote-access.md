@@ -22,6 +22,26 @@ For each method:
 - A screenshot or short note was captured to confirm the successful login prompt.
 - Any unique authentication prompts, error messages, or additional steps were noted.
 
+#### ✅ PuTTY on Windows
+
+![PuTTY login screenshot](images/putty_login.png)  
+*Figure 1: Successful login using PuTTY on Windows.*
+
+#### ✅ Windows Built-in SSH (Command Prompt or PowerShell)
+
+![Windows SSH login screenshot](images/windows_ssh_login.png)  
+*Figure 2: SSH login via Command Prompt or PowerShell.*
+
+#### ✅ macOS Terminal
+
+![macOS Terminal login screenshot](images/macos_terminal_login.png)  
+*Figure 3: SSH login via Terminal on macOS.*
+
+#### ✅ Linux Terminal
+
+![Linux Terminal login screenshot](images/linux_terminal_login.png)  
+*Figure 4: SSH login via Terminal on Linux.*
+
 ### 2️⃣ Troubleshooting & Notes
 
 We recorded every issue faced during connection attempts, such as:
@@ -31,6 +51,9 @@ We recorded every issue faced during connection attempts, such as:
 - Authentication failure  
 
 Each problem was resolved by actions such as adjusting firewall rules, correcting usernames, or enabling SSH on the server. These resolutions were documented thoroughly.
+
+![Troubleshooting example](images/troubleshooting_example.png)  
+*Figure 5: Example of resolving a connection error.*
 
 ### 3️⃣ Set Up SSH Key-Based Authentication
 
@@ -56,6 +79,9 @@ We set up passwordless login using SSH keys:
 
 3. We attempted to log in again, this time without a password prompt.
 4. All commands used and the final outcome were recorded. Key-based login was verified to work as expected.
+
+![Key-based login success](images/key_based_login.png)  
+*Figure 6: Successful login using SSH key-based authentication.*
 
 ## 🔍 Reporting Template
 
