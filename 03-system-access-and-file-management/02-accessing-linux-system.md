@@ -3,7 +3,7 @@
 ## Chapter 2: Accessing Linux Systems
 
 ### 🖥️ Introduction
-In this chapter, you’ll learn about the two primary methods of accessing a Linux system: **Console Access** and **Remote Access**. Mastering both methods is crucial for effective Linux management—whether working locally or administering systems remotely.
+In this chapter, we will learn about the two primary methods of accessing a Linux system — console access and remote access. Mastering both methods is crucial for effective Linux management, whether we are working locally or administering systems remotely.
 
 ---
 
