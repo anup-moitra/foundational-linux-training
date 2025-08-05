@@ -61,6 +61,7 @@ We set up passwordless login using SSH keys:
 
 1. We generated an SSH key pair on the client system (Windows/macOS/Linux):
 
+   To generate a key pair, run: 
    ```bash
    ssh-keygen -t rsa -b 4096 -C "our_email@example.com"
    ```
@@ -102,7 +103,7 @@ For SSH key-based authentication, we documented:
 
 ## 🏁 Conclusion
 
-By completing this project, we practiced and compared different SSH tools, overcame real connection obstacles, and significantly improved our login security using SSH keys. These steps prepared us for real-world server environments and helped build a strong foundation for troubleshooting and documenting Linux remote access.
+By completing this project, we practiced and compared different SSH tools, overcame real connection obstacles, and significantly improved our login security using SSH keys. Through hands-on experience, we learned why SSH key-based authentication is more secure and reliable than passwords for routine server administration. These steps prepared us for real-world server environments and helped build a strong foundation for troubleshooting and documenting Linux remote access.
 
 ---
 
