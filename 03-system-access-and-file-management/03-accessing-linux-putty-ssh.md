@@ -138,6 +138,17 @@ Terminal connected to Linux via SSH (macOS or Linux):
 
 ---
 
+### 🚀 Next Steps: Try the Practical Project
+
+Apply your learning with a hands-on challenge:  
+[**Project 03: Exploring Linux Remote Access**](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/03-exploring-linux-remote-access.md)
+
+- Practice connecting to your Linux machine via SSH and PuTTY.
+- Troubleshoot connection issues across platforms.
+- Set up SSH key-based authentication and document your results.
+
+---
+
 ### ✅ Conclusion
 
 We have now learned how to access a Linux machine using both direct console access and remote Secure Shell (SSH) methods. SSH is at the core of Linux system administration in professional and cloud environments. It is essential always to use strong credentials or SSH keys to protect access.
