@@ -20,9 +20,9 @@
 
 ## 📂 Module 3 – System Access and File Management
 
-- Important Things to Remember in Linux  
-- Accessing Linux Systems  
-- Accessing Linux Machine via PuTTY or SSH  
+- [Important Things to Remember in Linux](https://github.com/anup-moitra/foundational-linux-training/blob/main/03-system-access-and-file-management/01-important-things-to-remember-in-linux.md)  
+- [Accessing Linux Systems](https://github.com/anup-moitra/foundational-linux-training/blob/main/03-system-access-and-file-management/02-accessing-linux-system.md)  
+- [Accessing Linux Machine via PuTTY or SSH](https://github.com/anup-moitra/foundational-linux-training/blob/main/03-system-access-and-file-management/03-accessing-linux-putty-ssh.md)  
 - Regaining the Command Prompt Using Control + C  
 - Introduction to Filesystem Basics & Filesystem Structure Overview  
 - Navigating the File System (`cd`, `ls`, `pwd`)  
