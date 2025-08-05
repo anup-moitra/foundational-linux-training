@@ -42,18 +42,28 @@ For each method:
 ![Linux Terminal login screenshot](images/linux_terminal_login.png)  
 *Figure 4: SSH login via Terminal on Linux.*
 
-### 2️⃣ Troubleshooting & Notes
+### 2️⃣ Troubleshooting & Notes: Detailed Examples
 
-We recorded every issue faced during connection attempts, such as:
+#### Connection Refused in PuTTY
 
-- Connection refused  
-- Incorrect port or IP  
-- Authentication failure  
+![Connection Refused PuTTY](images/error_connection_refused_putty.png)  
+*Figure 5a: PuTTY shows “Connection refused” when the server SSH port is blocked.*
 
-Each problem was resolved by actions such as adjusting firewall rules, correcting usernames, or enabling SSH on the server. These resolutions were documented thoroughly.
+**Cause:** Firewall blocked port 22.  
+**Resolution:** Opened port 22 on firewall and restarted SSH service.
 
-![Troubleshooting example](images/troubleshooting_example.png)  
-*Figure 5: Example of resolving a connection error.*
+#### Authentication Failure in Linux Terminal
+
+![Authentication Failed Terminal](images/error_auth_fail_terminal.png)  
+*Figure 5b: Terminal shows “Permission denied” due to incorrect password or disabled SSH key login.*
+
+**Cause:** Incorrect password entered or key-based authentication not set up.  
+**Resolution:** Verified credentials; set up SSH key-based authentication to eliminate password issues.
+
+#### Successful Connection after Fix
+
+![Successful Connection](images/fixed_ssh_connection.png)  
+*Figure 5c: SSH session established successfully after troubleshooting.*
 
 ### 3️⃣ Set Up SSH Key-Based Authentication
 
