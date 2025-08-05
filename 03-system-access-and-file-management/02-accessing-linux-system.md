@@ -84,6 +84,6 @@ ssh root@192.168.1.100
 ---
 
 ### ✅ Conclusion
-You have now learned how to access Linux systems through both direct (console) and remote (Secure Shell) methods. Remote access is foundational for real-world Linux administration, especially in server and cloud environments.
+We have now learned how to access Linux systems through both direct (console) and remote (Secure Shell) methods. Remote access is foundational for real-world Linux administration, especially in server and cloud environments.
 
 ---
