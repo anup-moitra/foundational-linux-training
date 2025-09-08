@@ -44,14 +44,14 @@ As I work through each module and chapter, I tackle real projects and document k
 
 Open module → <a href="https://github.com/anup-moitra/foundational-linux-training/tree/main/01-understanding-linux-concepts">01-understanding-linux-concepts/</a>
 
-- [ ] 01.01 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/01-everyday-linux.md">Everyday Linux</a>
-- [ ] 01.02 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md">Understanding the OS</a>
-- [ ] 01.03 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md">What is Linux?</a>
-- [ ] 01.04 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/04-history-of-linux.md">History of Linux</a>
-- [ ] 01.05 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/05-unix-vs-linux.md">Unix vs Linux</a>
-- [ ] 01.06 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/06-linux-distributions.md">Linux Distributions</a>
-- [ ] 01.07 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/07-who-uses-linux.md">Who Uses Linux?</a>
-- [ ] 01.08 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/08-linux-vs-windows.md">Linux vs Windows</a>
+- 01.01 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/01-everyday-linux.md">Everyday Linux</a>
+- 01.02 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md">Understanding the OS</a>
+- 01.03 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md">What is Linux?</a>
+- 01.04 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/04-history-of-linux.md">History of Linux</a>
+- 01.05 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/05-unix-vs-linux.md">Unix vs Linux</a>
+- 01.06 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/06-linux-distributions.md">Linux Distributions</a>
+- 01.07 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/07-who-uses-linux.md">Who Uses Linux?</a>
+- 01.08 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/08-linux-vs-windows.md">Linux vs Windows</a>
 
 </details>
 
@@ -60,9 +60,9 @@ Open module → <a href="https://github.com/anup-moitra/foundational-linux-train
 
 Open module → <a href="./02-virtual-lab-setup/">02-virtual-lab-setup/</a>
 
-- [ ] 02.01 — (chapter name)
-- [ ] 02.02 — (chapter name)
-- [ ] 02.03 — (chapter name)
+- 02.01 — (chapter name)
+- 02.02 — (chapter name)
+- 02.03 — (chapter name)
 
 </details>
 
@@ -71,9 +71,9 @@ Open module → <a href="./02-virtual-lab-setup/">02-virtual-lab-setup/</a>
 
 Open module → <a href="./03-system-access-and-file-management/">03-system-access-and-file-management/</a>
 
-- [ ] 03.01 — (chapter name)
-- [ ] 03.02 — (chapter name)
-- [ ] 03.03 — (chapter name)
+- 03.01 — (chapter name)
+- 03.02 — (chapter name)
+- 03.03 — (chapter name)
 
 </details>
 
@@ -82,10 +82,10 @@ Open module → <a href="./03-system-access-and-file-management/">03-system-acce
 
 Open module → <a href="./04-linux-fundamentals/">04-linux-fundamentals/</a>
 
-- [ ] 04.01 — (chapter name)
-- [ ] 04.02 — (chapter name)
-- [ ] 04.03 — (chapter name)
-- [ ] 04.04 — (chapter name)
+- 04.01 — (chapter name)
+- 04.02 — (chapter name)
+- 04.03 — (chapter name)
+- 04.04 — (chapter name)
 
 </details>
 
@@ -94,9 +94,9 @@ Open module → <a href="./04-linux-fundamentals/">04-linux-fundamentals/</a>
 
 Open module → <a href="./05-system-administration/">05-system-administration/</a>
 
-- [ ] 05.01 — (chapter name)
-- [ ] 05.02 — (chapter name)
-- [ ] 05.03 — (chapter name)
+- 05.01 — (chapter name)
+- 05.02 — (chapter name)
+- 05.03 — (chapter name)
 
 </details>
 
@@ -105,22 +105,9 @@ Open module → <a href="./05-system-administration/">05-system-administration/<
 
 Open module → <a href="./06-my-linux-training-completion-certificate/">06-my-linux-training-completion-certificate/</a>
 
-- [ ] 06.01 — Completion evidence prepared
+- 06.01 — Completion evidence prepared
 
 </details>
-
----
-
-## ✅ Progress Tracker
-
-<!-- Maintainer-updated. Readers can fork to track their own progress. -->
-
-- [ ] 01 — Linux Concepts
-- [ ] 02 — Virtual Lab Setup
-- [ ] 03 — System Access & File Management
-- [ ] 04 — Linux Fundamentals
-- [ ] 05 — System Administration
-- [ ] 06 — Completion Certificate
 
 ---
 
