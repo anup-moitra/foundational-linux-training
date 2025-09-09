@@ -2,131 +2,49 @@
 
 ## 📝 Objective
 
-Run a short, read-only tour that matches Chapter 2. Collect a few facts about your kernel, processes, memory, filesystems, and services, then explain what you see in your own words.
+As part of my foundational Linux learning journey, I explored what my operating system reveals about itself using simple, safe, read-only commands. This project connects to **Chapter 2: What Is an Operating System?** and helps link theory to my own system.
 
-**Related reading:** [Chapter 2: Understanding the Operating System](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)
+**Related reading:** [Chapter 2: What Is an Operating System?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)
 
-> Beginner note: You do not need to memorize any commands here. We will go deeper into each tool in later chapters with step-by-step examples. For now, focus on noticing what kind of information each command reveals.
+## 📋 Commands I Ran
 
-## ⏱ Time and prerequisites
+Here are the basic commands I used to peek into my OS:
 
-- Estimated time: 15 to 25 minutes  
-- Linux machine or VM with a shell. Use a non-root user.  
-- All commands are read-only.
+- `uname -a` → shows kernel version and architecture  
+- `cat /etc/os-release` → displays Linux distribution information  
+- `df -h` → reports filesystem and available space  
 
-## ✅ Safety
+## 📸 Proof: My Images and Screenshots
 
-Nothing here changes your system. You only read information.
+Screenshots or terminal captures to store under `images/` in the project directory:
 
-## 📂 Simple way to save outputs
+1. Output of `uname -a`  
+2. Output of `cat /etc/os-release`  
+3. Output of `df -h`  
 
-If you want to save what you run, create a folder and redirect the command output. This is optional.
+## 🔗 Research Highlights
 
-```bash
-mkdir -p outputs
-uname -a > outputs/01-uname.txt
-```
+During this project, I confirmed the meaning of each command and output:
 
-## 🔧 Tasks
+- **uname:** https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html  
+- **/etc/os-release:** https://www.freedesktop.org/software/systemd/man/os-release.html  
+- **df:** https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html  
 
-### Task 1: OS and kernel
-Run:
-```bash
-uname -r
-uname -m
-cat /etc/os-release | head -n 5
-```
-Record:
-- Kernel release and CPU architecture
-- Distro name and version from os-release
-Explain in one or two sentences how apps talk to hardware through the kernel and libraries.
+## 💡 What I Learned
 
----
+- The kernel and distribution versions are easy to query directly.  
+- The OS structure feels less abstract when I can “ask it questions.”  
+- Even simple read-only commands show how the OS organizes hardware and files.  
 
-### Task 2: Processes
-Run:
-```bash
-ps -eo pid,comm,%cpu --sort=-%cpu | head
-```
-Record:
-- One process name and PID using noticeable CPU
-Explain what the scheduler is for in one sentence.
+## 📁 My Process
 
----
-
-### Task 3: Memory
-Run:
-```bash
-free -h
-```
-Record:
-- Total, used, and available memory
-Explain what the operating system is doing when available memory looks low but the system still feels fast.
-
----
-
-### Task 4: Files and filesystems
-Run:
-```bash
-df -h /
-ls -l / | head
-```
-Record:
-- Size and free space of your root filesystem
-- One directory under / that you did not recognize and a guess at what it contains
-
----
-
-### Task 5: Services
-Run:
-```bash
-systemctl list-units --type=service --state=running | head
-```
-Record:
-- Two running services and what they do in plain words
-
-If your system does not use systemd, try one of these and note which init system you have:
-```bash
-service --status-all | head
-rc-status
-init --version
-```
-
-## 📝 Deliverable
-
-Create a short README.md with your answers for each task. Use complete sentences. Paste small snippets of output only where needed.
-
-## 🧭 Where you will see these again
-
-- `ps`, `top`: processes and scheduling chapter  
-- `free`, `/proc/meminfo`: memory management chapter  
-- `df`, `ls`: files and filesystems chapter  
-- `systemctl` or your init tool: services and boot chapter
-
-## 📊 What good work looks like
-
-- You answered every Record prompt  
-- Your answers match the commands you ran  
-- You used chapter ideas in your explanations  
-- Your writing is clear and short
-
-## 🚀 Optional preview
-
-These are not required. They are small peeks that connect to later topics.
-
-Devices and drivers:
-```bash
-lsblk
-lsmod | head
-```
-
-Networking:
-```bash
-ip a
-ss -tuna | head
-```
+1. Identified a safe Linux environment (VM or personal machine).  
+2. Ran read-only commands.  
+3. Captured screenshots of the output.  
+4. Researched what each field meant.  
+5. Summarized findings and reflections here.  
 
 ---
 
 By: Anup Moitra  
-Location: Bhiwadi, Rajasthan
+Location: Bhiwadi, Rajasthan  
