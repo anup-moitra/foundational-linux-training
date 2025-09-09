@@ -74,7 +74,7 @@ To deepen my understanding, I created a hands-on project where I explored and do
 
 > 🔎 **Try this:** Open your router’s admin page and look for an “Open-source licenses” or “GPL” section: many vendors list **Linux** and **BusyBox** there.
 
-For example, when I logged into my Wi-Fi router’s admin page, I discovered it runs a lightweight Linux system (with BusyBox). That little discovery made Linux feel less abstract and more like something quietly running in my own home.
+For example, when I logged into my Wi-Fi router’s admin page, I discovered it runs a lightweight Linux system (with OpenWrt). That little discovery made Linux feel less abstract and more like something quietly running in my own home.
 
 ### 🏁 Conclusion
 
