@@ -6,7 +6,7 @@
 
 Every computer needs a hidden manager that makes sure everything works together smoothly. This manager is called the **Operating System (OS)**. It decides which programs get to use the CPU, how memory is shared, how files are stored, and how your apps connect to the internet.
 
-When you click an icon or type into a terminal, you’re touching the **surface** of the OS. Underneath, it’s quietly juggling thousands of tasks to keep your system safe and stable.
+When you click an icon or type into a terminal, you are touching the **surface** of the OS. Underneath, it is quietly juggling thousands of tasks to keep your system safe and stable.
 
 ### 📚 What Will You Learn?
 
@@ -19,14 +19,14 @@ When you click an icon or type into a terminal, you’re touching the **surface*
 
 An **Operating System** is like a **referee and translator** between apps and hardware.
 
-- **Translator:** Apps don’t talk to hardware directly—they ask the OS to “save this file” or “connect to Wi-Fi.”  
-- **Referee:** The OS makes sure one program can’t crash or overwrite another.  
+- **Translator:** Apps do not talk to hardware directly. They ask the OS to “save this file” or “connect to Wi-Fi.”  
+- **Referee:** The OS makes sure one program cannot crash or overwrite another.  
 
 A simple mental model:  
 
 **Apps → Libraries → Kernel → Hardware**  
 
-The **kernel** is the OS core. It manages the CPU, memory, files, and devices. On top of it lives the **user space**—your programs, shells, and graphical interface.  
+The **kernel** is the OS core. It manages the CPU, memory, files, and devices. On top of it lives the **user space**: your programs, shells, and graphical interface.  
 
 ## 2️⃣ What Jobs Does an OS Do?
 
@@ -58,20 +58,20 @@ The **kernel** is the OS core. It manages the CPU, memory, files, and devices. O
 - **Server OS:** Windows Server, Linux distros like Debian, RHEL.  
 - **Mobile OS:** Android (built on the Linux kernel).  
 - **Embedded OS:** OpenWrt for routers, Yocto Linux for IoT.  
-- **Real-Time OS (RTOS):** Zephyr, QNX, FreeRTOS—used when strict timing is critical.  
+- **Real-Time OS (RTOS):** Zephyr, QNX, FreeRTOS. These are used when strict timing is critical.  
 
 ## 5️⃣ A Quick Look at Boot
 
 When you turn on a computer:  
 
 1. **Firmware (BIOS/UEFI)** wakes up the hardware.  
-2. **Bootloader (e.g., GRUB)** loads the kernel.  
+2. **Bootloader (for example GRUB)** loads the kernel.  
 3. **Kernel** starts drivers and mounts the root filesystem.  
 4. **Init system (systemd)** launches services and your login screen.  
 
 ## 6️⃣ Why This Matters
 
-Understanding the OS makes troubleshooting easier. Instead of guessing when something goes wrong, you’ll know whether the issue is with CPU, memory, storage, or the network. It’s the foundation for everything else you’ll learn about Linux.  
+Understanding the OS makes troubleshooting easier. Instead of guessing when something goes wrong, you will know whether the issue is with CPU, memory, storage, or the network. It is the foundation for everything else you will learn about Linux.  
 
 ### 💻 Related Project
 
@@ -84,7 +84,7 @@ For example, on my machine I found I was running **Linux kernel 6.5** on **Ubunt
 
 ### 🏁 Conclusion
 
-The Operating System is the invisible referee that lets apps and hardware cooperate. Windows makes it easy for desktops and gaming, while Linux shines in servers, embedded devices, and beyond. By learning how the OS works, you’re preparing to unlock Linux’s full power.  
+The Operating System is the invisible referee that lets apps and hardware cooperate. Windows makes it easy for desktops and gaming, while Linux shines in servers, embedded devices, and beyond. By learning how the OS works, you are preparing to unlock Linux’s full power.  
 
 > 💡 **Next Up:**  
-> We’ll zoom in on Linux itself—its philosophy, ecosystem, and what makes it different from other operating systems.  
+> We will zoom in on Linux itself, its philosophy, ecosystem, and what makes it different from other operating systems.  
