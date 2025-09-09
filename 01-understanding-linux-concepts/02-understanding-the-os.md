@@ -91,7 +91,7 @@ This split is why a buggy app rarely crashes the whole system. The kernel isolat
 
 Understanding the OS makes you better at everything else: performance tuning, debugging, security hardening, containerization, and cloud operations. You will read logs with purpose, interpret resource graphs correctly, and reason about failures instead of guessing.
 
-### 🧪 Quick preview full project in Project 02
+### 🧪 Quick preview
 
 These commands are read-only. Run on a Linux machine or VM.
 
@@ -101,7 +101,7 @@ cat /etc/os-release          # distro details
 df -h                        # filesystems and free space
 ```
 
-See the full tour and reflection prompts in **Project 02: Under the Hood of Your OS**.
+**Full project:** [Project 02: Under the Hood of Your OS](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/02-under-the-hood.md)
 
 ## 🏁 Conclusion
 
