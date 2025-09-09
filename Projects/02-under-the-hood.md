@@ -2,183 +2,129 @@
 
 ## 📝 Objective
 
-Run a short, read-only system tour to connect Chapter 2 concepts with real output. You will gather facts about your kernel, processes, memory, filesystems, devices, networking, and services, then explain what you see.
+Run a short, read-only tour that matches Chapter 2. Collect a few facts about your kernel, processes, memory, filesystems, and services, then explain what you see in your own words.
 
-**Related reading:** Chapter 2: Understanding the Operating System
+**Related reading:** [Chapter 2: Understanding the Operating System](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)
+
+> Beginner note: You do not need to memorize any commands here. We will go deeper into each tool in later chapters with step-by-step examples. For now, focus on noticing what kind of information each command reveals.
 
 ## ⏱ Time and prerequisites
 
-- Estimated time: 30 to 45 minutes  
-- You need a Linux machine or VM with a shell and a non-root user. `sudo` is not required for these tasks.  
+- Estimated time: 15 to 25 minutes  
+- Linux machine or VM with a shell. Use a non-root user.  
 - All commands are read-only.
 
 ## ✅ Safety
 
-These commands do not change your system. You only read system information.
+Nothing here changes your system. You only read information.
 
-## 📂 Project structure
+## 📂 Simple way to save outputs
 
-```
-Project-02-Under-The-Hood/
-  README.md                 # your findings
-  outputs/                  # command outputs saved as text
-  collect.sh                # helper script to collect outputs
+If you want to save what you run, create a folder and redirect the command output. This is optional.
+
+```bash
+mkdir -p outputs
+uname -a > outputs/01-uname.txt
 ```
 
 ## 🔧 Tasks
 
-### Task 1: Identify your OS and kernel
-Commands:
+### Task 1: OS and kernel
+Run:
 ```bash
-uname -a
-cat /etc/os-release
-lscpu | head
+uname -r
+uname -m
+cat /etc/os-release | head -n 5
 ```
 Record:
-- Kernel release and architecture
-- Distro name and version
-- CPU model and core count reported by `lscpu`
-
-Explain in two to three sentences how the kernel and userspace relate based on the chapter model: Apps -> Libraries -> Kernel -> Hardware.
+- Kernel release and CPU architecture
+- Distro name and version from os-release
+Explain in one or two sentences how apps talk to hardware through the kernel and libraries.
 
 ---
 
-### Task 2: Processes and scheduling
-Commands:
+### Task 2: Processes
+Run:
 ```bash
-ps -ef | head
-top -b -n 1 | head
+ps -eo pid,comm,%cpu --sort=-%cpu | head
 ```
 Record:
-- A few process IDs and names
-- The process using the most CPU right now
-Explain briefly what a context switch is and why the scheduler exists.
+- One process name and PID using noticeable CPU
+Explain what the scheduler is for in one sentence.
 
 ---
 
-### Task 3: Memory management
-Commands:
+### Task 3: Memory
+Run:
 ```bash
 free -h
-cat /proc/meminfo | head
 ```
 Record:
-- Total memory, used, and available
-- One interesting field from `/proc/meminfo` and what it tells you
+- Total, used, and available memory
+Explain what the operating system is doing when available memory looks low but the system still feels fast.
 
 ---
 
 ### Task 4: Files and filesystems
-Commands:
+Run:
 ```bash
-df -h
-ls -l /
+df -h /
+ls -l / | head
 ```
 Record:
-- Your root filesystem device and size from `df -h`
-- One directory under `/` that surprised you and why
+- Size and free space of your root filesystem
+- One directory under / that you did not recognize and a guess at what it contains
 
 ---
 
-### Task 5: Devices and drivers
-Commands:
-```bash
-lsblk
-lsmod | head
-```
-Record:
-- Your primary disk device name from `lsblk`  
-- One loaded module name from `lsmod` and a guess at what device or feature it enables
-
----
-
-### Task 6: Networking
-Commands:
-```bash
-ip a
-ss -tuna | head
-```
-Record:
-- Your primary network interface name and IP address
-- One listening TCP port and the address it binds to
-
----
-
-### Task 7: Services
-Commands:
+### Task 5: Services
+Run:
 ```bash
 systemctl list-units --type=service --state=running | head
 ```
 Record:
-- Two running services and what they are for
+- Two running services and what they do in plain words
 
----
-
-## 🧰 Helper: collector script
-
-Save this as `collect.sh` in the project folder, then run `bash collect.sh`. It writes text files under `outputs/` so you can commit them.
-
+If your system does not use systemd, try one of these and note which init system you have:
 ```bash
-#!/usr/bin/env bash
-set -euo pipefail
-
-OUT="outputs"
-mkdir -p "$OUT"
-
-run() {
-  cmd="$1"
-  file="$2"
-  echo "# $cmd" > "$OUT/$file"
-  bash -lc "$cmd" >> "$OUT/$file" 2>&1 || true
-}
-
-run "uname -a" "01-uname.txt"
-run "cat /etc/os-release" "02-os-release.txt"
-run "lscpu | head" "03-lscpu.txt"
-run "ps -ef | head" "04-ps.txt"
-run "top -b -n 1 | head" "05-top.txt"
-run "free -h" "06-free.txt"
-run "cat /proc/meminfo | head" "07-meminfo.txt"
-run "df -h" "08-df.txt"
-run "ls -l /" "09-ls-root.txt"
-run "lsblk" "10-lsblk.txt"
-run "lsmod | head" "11-lsmod.txt"
-run "ip a" "12-ip-a.txt"
-run "ss -tuna | head" "13-ss.txt"
-run "systemctl list-units --type=service --state=running | head" "14-systemctl.txt"
-
-echo "Saved outputs in $OUT/"
+service --status-all | head
+rc-status
+init --version
 ```
 
-Make it executable:
+## 📝 Deliverable
+
+Create a short README.md with your answers for each task. Use complete sentences. Paste small snippets of output only where needed.
+
+## 🧭 Where you will see these again
+
+- `ps`, `top`: processes and scheduling chapter  
+- `free`, `/proc/meminfo`: memory management chapter  
+- `df`, `ls`: files and filesystems chapter  
+- `systemctl` or your init tool: services and boot chapter
+
+## 📊 What good work looks like
+
+- You answered every Record prompt  
+- Your answers match the commands you ran  
+- You used chapter ideas in your explanations  
+- Your writing is clear and short
+
+## 🚀 Optional preview
+
+These are not required. They are small peeks that connect to later topics.
+
+Devices and drivers:
 ```bash
-chmod +x collect.sh
+lsblk
+lsmod | head
 ```
 
-## 📝 Deliverables
-
-- `outputs/` folder created by the script or by running commands manually and redirecting output  
-- `README.md` that answers the Record prompts and short explanations in each task
-
-## 📊 Grading rubric
-
-- Completeness: all tasks attempted and outputs included  
-- Accuracy: values recorded match command output  
-- Understanding: short explanations show correct use of chapter ideas  
-- Clarity: clean formatting and filenames
-
-## 🩺 Troubleshooting
-
-- Command not found: install the package or skip and note it. For example `htop` is optional.  
-- `systemctl` is missing: your distro may not use `systemd`. Note the init system in `outputs` and move on.  
-- Permissions: these commands are read-only. If a command needs root, skip it and explain why.
-
-## 🚀 Extensions
-
-Pick one:
-- Check SELinux or AppArmor status on your system. Try `getenforce` or `sudo apparmor_status`.  
-- Identify your default network route: `ip r`.  
-- Inspect one more filesystem tool: `mount | head` or `lsblk -f`.
+Networking:
+```bash
+ip a
+ss -tuna | head
+```
 
 ---
 
