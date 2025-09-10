@@ -70,17 +70,18 @@ Although Unix established the foundations for modern operating systems, Linux ev
 ### 💻 Related Project
 
 To explore this chapter further, I designed a small project to compare Linux and Unix-like systems:  
-**Project 05: POSIX Portability Scavenger Hunt**
+[Project 05: POSIX Portability Scavenger Hunt](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/05-posix-portability.md)
 
 **Tasks:**
 
 1. Run the command `uname -srm` on your Linux system to see kernel and architecture information.  
 2. If possible, run the same command on a Unix-like system (for example macOS, which is Unix-certified) and note the differences.  
-3. Write a simple shell script using only POSIX-specified utilities (for example `echo`, `grep`, `cut`, `wc`).  
-4. Test the script on both systems and record where options or flags behave differently.  
+3. Compare the outputs and observe how POSIX standards ensure the command works across both systems.  
+
+> We will explore more POSIX tools and scripting in later modules, but for now this project focuses only on the `uname` command.  
 
 **Expected Outcome:**  
-This experiment highlights how Unix and Linux share a foundation in POSIX standards while differing in extensions, options, and toolsets.  
+This experiment highlights how Unix and Linux share a foundation in POSIX standards while differing in naming, output details, and extensions.  
 
 ### 🏁 Conclusion
 
