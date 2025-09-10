@@ -2,7 +2,7 @@
 
 ## 📝 Objective
 
-As part of my foundational Linux learning journey, I explored and documented where Linux is present in my daily life. This project captures my investigation and observations for **Chapter 1: How We Use Linux Every Day**, and it connects course concepts to examples around me.
+In this project, I mapped where Linux shows up in the devices and services I use every day. This project captures my investigation and observations for **Chapter 1: How We Use Linux Every Day**, and it connects course concepts to examples around me.
 
 **Related reading:** [Chapter 2: Understanding the Operating System](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)
 
