@@ -4,7 +4,7 @@
 
 As part of my foundational Linux learning journey, I explored the concept of **Linux distributions (distros)** and identified how they differ. This project connects to **Chapter 3: What Is Linux?** and helps link theory to real-world examples.  
 
-**Related reading:** [Chapter 3: What Is Linux?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md)  
+**Related reading:** [Chapter 3: What Is Linux?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what-is-linux.md)  
 
 ## 📋 Tasks I Performed  
 
