@@ -1,4 +1,4 @@
-# Project 04: Linux Timeline Research
+**# Project 04: Linux Timeline Research
 
 ## 📝 Objective  
 
@@ -90,3 +90,4 @@ Screenshots or notes are stored under `images/` in the project directory:
 
 By: Anup Moitra  
 Location: Bhiwadi, Rajasthan
+**
