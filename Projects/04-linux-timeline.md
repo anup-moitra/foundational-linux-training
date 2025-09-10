@@ -14,35 +14,56 @@ As part of my foundational Linux learning journey, I researched the history of L
 
 ## 📸 Proof: My Images and Screenshots  
 
-Screenshots or notes to be stored under `images/` in the project directory:  
+Screenshots or notes are stored under `images/` in the project directory:  
 
 
-1. Timeline diagram
+1. Timeline diagram  
 
    ![Linux Timeline](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg)  
-   *Infographic summarizing key milestones from UNIX to Android.*  
+   *Original 1280×720 infographic summarizing key milestones from UNIX roots to Android.*  
 
 
-2. Notes or screenshots from official sources (kernel.org, GNU, Linux Foundation).  
+2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)  
+
+
+   ![GNU initial announcement](images/gnu-initial-announcement-1983.png)  
+   *GNU Project announcement posted on September 27, 1983.*  
+   Source: https://www.gnu.org/gnu/initial-announcement.html  
+
+
+   ![Linux 1.0 release](images/linux-1.0-release-1994.png)  
+   *Archive text announcing Linux kernel release 1.0 in 1994.*  
+   Source: https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/%2B/v1.0  
+
+
+   ![Linux Foundation founded](images/linux-foundation-founded-2007.png)  
+   *About section noting the Linux Foundation was founded in 2007.*  
+   Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation  
+
+
+   <!-- Optional extra -->
+   <!-- ![Android first phone](images/android-first-phone-2008.png)  
+   *Confirmation of the first Android phone shipping in 2008.*  
+   Source: https://blog.google/products/android/  -->  
 
 
 ## 🔗 Research Highlights  
 
-- **1970s: UNIX origins** — multi-user design, rewritten in C.  
-- **1983: GNU Project** — free software tools (GCC, Bash, coreutils).  
-- **1991: Linux kernel** — Linus Torvalds begins his hobby project.  
-- **1992: GPLv2 license** — enabled global collaboration.  
-- **1993: Debian and Slackware** — early distributions.  
-- **1994: Linux 1.0 release** — first stable kernel.  
-- **2005: Git created** — revolutionized software collaboration.  
-- **2007: Linux Foundation formed** — coordinated development and industry support.  
-- **2008: Android phone ships** — Linux reaches billions of users.  
+- **1970s: UNIX origins**. Multi-user design and rewritten in C for portability.  
+- **1983: GNU Project**. Free software tools such as GCC, Bash, and coreutils.  
+- **1991: Linux kernel**. Linus Torvalds begins his hobby project.  
+- **1992: GPLv2 license**. Licensing enables global collaboration.  
+- **1993: Debian and Slackware**. Early distributions that helped adoption.  
+- **1994: Linux 1.0 release**. First stable kernel.  
+- **2005: Git created**. Distributed version control that scaled kernel work.  
+- **2007: Linux Foundation formed**. Coordinated development and industry support.  
+- **2008: Android phone ships**. Linux reaches billions of users.  
 
 ## 💡 What I Learned  
 
-- Linux’s success combined **UNIX design principles, GNU tools, and open licensing**.  
-- Key milestones (like GPL licensing and the creation of Git) shaped not only Linux but the broader software industry.  
-- Understanding Linux history helps explain its culture of collaboration and why open source is so powerful.  
+- Linux success combines **UNIX design principles, GNU tools, and open licensing**.  
+- Key milestones such as GPL licensing and the creation of Git shaped not only Linux but the broader software industry.  
+- Understanding Linux history explains the culture of collaboration and why open source is powerful.  
 
 ## 📁 My Process  
 
@@ -52,7 +73,7 @@ Screenshots or notes to be stored under `images/` in the project directory:
 4. Added notes explaining each milestone.  
 5. Summarized findings and reflections here.  
 
----
+---  
 
 By: Anup Moitra  
 Location: Bhiwadi, Rajasthan
