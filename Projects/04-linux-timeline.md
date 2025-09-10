@@ -41,10 +41,9 @@ Screenshots or notes are stored under `images/` in the project directory:
    Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation  
 
 
-   <!-- Optional extra -->
-   <!-- ![Android first phone](images/android-first-phone-2008.jpg)  
+ ![Android first phone](images/android-first-phone-2008.jpg)  
    *Confirmation of the first Android phone shipping in 2008.*  
-   Source: https://blog.google/products/android/  -->  
+   Source: https://en.wikipedia.org/wiki/HTC_Dream   
 
 
 ## 🔗 Research Highlights  
