@@ -2,7 +2,7 @@
 
 ## 📝 Objective
 
-As part of my foundational Linux learning journey, I explored what my operating system reveals about itself using simple, safe, read-only commands. This project connects to **Chapter 2: What Is an Operating System?** and helps link theory to my own system.
+This project let me peek under the hood of my operating system using simple, safe commands. This project connects to **Chapter 2: What Is an Operating System?** and helps link theory to my own system.
 
 **Related reading:** [Chapter 2: What Is an Operating System?](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md)
 
