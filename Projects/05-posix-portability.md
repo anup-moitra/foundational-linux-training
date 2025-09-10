@@ -2,7 +2,7 @@
 
 ## 📝 Objective  
 
-As part of my foundational Linux learning journey, I compared Linux with a Unix-like system to see how POSIX standards keep them similar. This project connects to **Chapter 5: Difference Between Unix and Linux** and is an early step in understanding portability across systems.  
+In this project, I compared Linux with a Unix-like system to see how POSIX standards keep them similar. This project connects to **Chapter 5: Difference Between Unix and Linux** and is an early step in understanding portability across systems.  
 
 **Related reading:** [Chapter 5: Difference Between Unix and Linux](../01-understanding-linux-concepts/05-unix-vs-linux.md)  
 
