@@ -20,34 +20,40 @@ Screenshots or notes are stored under `images/` in the project directory:
 1. Timeline diagram  
 
    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg" alt="Linux Timeline" width="820" />
-   *Infographic summarizing key milestones from UNIX roots to Android.*  
 
-   <br />
-
-
-2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)  
+    *Infographic summarizing key milestones from UNIX roots to Android.*
+   
+   <br />   
+2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)
 
    <img src="images/gnu-initial-announcement-1983.jpg" alt="GNU initial announcement" width="700" />
+   
    *GNU Project announcement posted on September 27, 1983.*  
-   Source: https://www.gnu.org/gnu/initial-announcement.html  
+   Source: https://www.gnu.org/gnu/initial-announcement.html
 
    <br />
+   &nbsp;
 
    <img src="images/linux-1.0-release-1994.jpg" alt="Linux 1.0 release" width="700" />
+   
    *Archive text announcing Linux kernel release 1.0 in 1994.*  
-   Source: https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/%2B/v1.0  
+   Source: https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/%2B/v1.0
 
    <br />
+   &nbsp;
 
    <img src="images/linux-foundation-founded-2007.jpg" alt="Linux Foundation founded" width="700" />
+   
    *About section noting the Linux Foundation was founded in 2007.*  
-   Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation  
+   Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation
 
    <br />
+   &nbsp;
 
    <img src="images/android-first-phone-2008.jpg" alt="Android first phone" width="700" />
+   
    *Confirmation of the first Android phone shipping in 2008.*  
-   Source: https://en.wikipedia.org/wiki/HTC_Dream  
+   Source: https://en.wikipedia.org/wiki/HTC_Dream
 
 
 ## 🔗 Research Highlights  
