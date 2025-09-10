@@ -16,20 +16,27 @@ As part of my foundational Linux learning journey, I researched the history of L
 
 Screenshots or notes to be stored under `images/` in the project directory:  
 
-1. Timeline diagram (created with a drawing tool or markdown).  
+
+1. Timeline diagram
+
+   ![Linux Timeline](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg)  
+   *Infographic summarizing key milestones from UNIX to Android.*  
+
+
 2. Notes or screenshots from official sources (kernel.org, GNU, Linux Foundation).  
+
 
 ## 🔗 Research Highlights  
 
-- **1970s – UNIX origins:** Multi-user design, rewritten in C.  
-- **1983 – GNU Project:** Free software tools (GCC, Bash, coreutils).  
-- **1991 – Linux kernel:** Linus Torvalds begins his hobby project.  
-- **1992 – GPLv2 license:** Enabled global collaboration.  
-- **1993 – Debian and Slackware:** Early distributions.  
-- **1994 – Linux 1.0 release:** First stable kernel.  
-- **2005 – Git created:** Revolutionized software collaboration.  
-- **2007 – Linux Foundation formed:** Coordinated development and industry support.  
-- **2008 – Android phone ships:** Linux reaches billions of users.  
+- **1970s: UNIX origins** — multi-user design, rewritten in C.  
+- **1983: GNU Project** — free software tools (GCC, Bash, coreutils).  
+- **1991: Linux kernel** — Linus Torvalds begins his hobby project.  
+- **1992: GPLv2 license** — enabled global collaboration.  
+- **1993: Debian and Slackware** — early distributions.  
+- **1994: Linux 1.0 release** — first stable kernel.  
+- **2005: Git created** — revolutionized software collaboration.  
+- **2007: Linux Foundation formed** — coordinated development and industry support.  
+- **2008: Android phone ships** — Linux reaches billions of users.  
 
 ## 💡 What I Learned  
 
@@ -45,7 +52,7 @@ Screenshots or notes to be stored under `images/` in the project directory:
 4. Added notes explaining each milestone.  
 5. Summarized findings and reflections here.  
 
----  
+---
 
 By: Anup Moitra  
-Location: Bhiwadi, Rajasthan  
+Location: Bhiwadi, Rajasthan
