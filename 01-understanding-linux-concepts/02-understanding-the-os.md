@@ -80,7 +80,7 @@ To explore this chapter further, I peeked into my own system with safe, read-onl
 
 > 🔎 **Try this:** Run `uname -a` to see your kernel version, `cat /etc/os-release` to check your distribution, and `df -h` to view filesystem space.  
 
-For example, on my machine, I found I was running **Linux kernel 6.5** on **Ubuntu 22.04 LTS**, and that my `/home` partition had over 100 GB free. That tiny experiment turned the OS from a black box into something I could query directly.  
+For example, on my machine, I found I was running **CentOS Stream 9** with a Linux kernel **5.14.0**, and that my root (/) partition had about **11 GB** free. Your results may look different depending on your system. You might see Ubuntu, Fedora, or another distribution entirely. That tiny experiment turned the OS from a black box into something I could query directly.  
 
 ### 🏁 Conclusion
 
