@@ -2,7 +2,7 @@
 
 ## 📝 Objective  
 
-As part of my foundational Linux learning journey, I researched the history of Linux to connect theory with key milestones. This project supports **Chapter 4: History of Linux** by tracing how Linux grew from a student project into today’s global platform.  
+Here I traced Linux’s history by researching key milestones and why they mattered. This project supports **Chapter 4: History of Linux** by tracing how Linux grew from a student project into today’s global platform.  
 
 **Related reading:** [Chapter 4: History of Linux](https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/04-history-of-linux.md)  
 
