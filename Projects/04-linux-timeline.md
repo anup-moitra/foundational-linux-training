@@ -26,23 +26,23 @@ Screenshots or notes are stored under `images/` in the project directory:
 2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)  
 
 
-   ![GNU initial announcement](images/gnu-initial-announcement-1983.png)  
+   ![GNU initial announcement](images/gnu-initial-announcement-1983.jpg)  
    *GNU Project announcement posted on September 27, 1983.*  
    Source: https://www.gnu.org/gnu/initial-announcement.html  
 
 
-   ![Linux 1.0 release](images/linux-1.0-release-1994.png)  
+   ![Linux 1.0 release](images/linux-1.0-release-1994.jpg)  
    *Archive text announcing Linux kernel release 1.0 in 1994.*  
    Source: https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/%2B/v1.0  
 
 
-   ![Linux Foundation founded](images/linux-foundation-founded-2007.png)  
+   ![Linux Foundation founded](images/linux-foundation-founded-2007.jpg)  
    *About section noting the Linux Foundation was founded in 2007.*  
    Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation  
 
 
    <!-- Optional extra -->
-   <!-- ![Android first phone](images/android-first-phone-2008.png)  
+   <!-- ![Android first phone](images/android-first-phone-2008.jpg)  
    *Confirmation of the first Android phone shipping in 2008.*  
    Source: https://blog.google/products/android/  -->  
 
