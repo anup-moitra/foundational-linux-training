@@ -1,4 +1,4 @@
-**# Project 04: Linux Timeline Research
+# Project 04: Linux Timeline Research
 
 ## 📝 Objective  
 
@@ -19,9 +19,7 @@ Screenshots or notes are stored under `images/` in the project directory:
 
 1. Timeline diagram  
 
-   <p align="center">
-     <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg" alt="Linux Timeline" width="820" />
-   </p>
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg" alt="Linux Timeline" width="820" />
    *Infographic summarizing key milestones from UNIX roots to Android.*  
 
    <br />
@@ -29,33 +27,25 @@ Screenshots or notes are stored under `images/` in the project directory:
 
 2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)  
 
-   <p align="center">
-     <img src="images/gnu-initial-announcement-1983.jpg" alt="GNU initial announcement" width="760" />
-   </p>
+   <img src="images/gnu-initial-announcement-1983.jpg" alt="GNU initial announcement" width="700" />
    *GNU Project announcement posted on September 27, 1983.*  
    Source: https://www.gnu.org/gnu/initial-announcement.html  
 
    <br />
 
-   <p align="center">
-     <img src="images/linux-1.0-release-1994.jpg" alt="Linux 1.0 release" width="760" />
-   </p>
+   <img src="images/linux-1.0-release-1994.jpg" alt="Linux 1.0 release" width="700" />
    *Archive text announcing Linux kernel release 1.0 in 1994.*  
    Source: https://kernel.googlesource.com/pub/scm/linux/kernel/git/nico/archive/%2B/v1.0  
 
    <br />
 
-   <p align="center">
-     <img src="images/linux-foundation-founded-2007.jpg" alt="Linux Foundation founded" width="760" />
-   </p>
+   <img src="images/linux-foundation-founded-2007.jpg" alt="Linux Foundation founded" width="700" />
    *About section noting the Linux Foundation was founded in 2007.*  
    Source: https://www.linuxfoundation.org/press/press-release/ricoh-joins-linux-foundation  
 
    <br />
 
-   <p align="center">
-     <img src="images/android-first-phone-2008.jpg" alt="Android first phone" width="760" />
-   </p>
+   <img src="images/android-first-phone-2008.jpg" alt="Android first phone" width="700" />
    *Confirmation of the first Android phone shipping in 2008.*  
    Source: https://en.wikipedia.org/wiki/HTC_Dream  
 
@@ -90,4 +80,3 @@ Screenshots or notes are stored under `images/` in the project directory:
 
 By: Anup Moitra  
 Location: Bhiwadi, Rajasthan
-**
