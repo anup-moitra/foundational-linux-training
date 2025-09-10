@@ -75,7 +75,7 @@ If your goal is a career in IT or cybersecurity—such as System Administration,
 
 ## 💻 Related Project
 
-[Project 06: Distro Research & Comparison](../Projects/06-distro-research.md)  
+[Project 06: Distro Research & Comparison](../Projects/06-exploring-linux-distributions.md)  
 
 **Tasks:**  
 1. Use your system to check which distribution you are currently running with:  
