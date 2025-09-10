@@ -19,9 +19,12 @@ As part of my foundational Linux learning journey, I explored the concept of **L
 
 Screenshots are stored under `images/` in the project directory:  
 
+
 1. Output of `cat /etc/os-release`  
+
    ![os-release](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/os-release-info.png)  
    *This confirms the system is running CentOS Stream 9, which is part of the RHEL family.*  
+
 
 2. Notes or screenshots from DistroWatch showing information about three popular distros (e.g., Ubuntu, Fedora, Arch).  
 
