@@ -20,7 +20,7 @@ Screenshots or notes are stored under `images/` in the project directory:
 1. Timeline diagram  
 
    ![Linux Timeline](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-timeline.jpg)  
-   *Original 1280×720 infographic summarizing key milestones from UNIX roots to Android.*  
+   *Infographic summarizing key milestones from UNIX roots to Android.*  
 
 
 2. Notes or screenshots from official sources (kernel.org, gnu.org, linuxfoundation.org)  
