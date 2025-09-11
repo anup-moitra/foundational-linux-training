@@ -90,7 +90,7 @@ This chapter explores the distinctions between these two systems, showing both t
 
 ## 💻 Related Project
 
-[Project 08: Linux versus Windows Hands-On](../Projects/08-linux-vs-windows.md)  
+[Project 08: Linux versus Windows Hands-On](../Projects/08-linux-versus-windows.md)  
 
 **Tasks:**  
 1. Run `uname -a` on Linux and `systeminfo` on Windows. Compare what information they reveal.  
