@@ -23,25 +23,26 @@ Photos and screenshots are stored under the `images/` folder in the project dire
 
 1. Android smartphone About screen showing kernel version  
 
-   ![myphone-about](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/myphone-about.png)  
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/myphone-about.png" alt="myphone-about" width="250"/>  
+
    *Figure 1: Android device About page confirming Linux kernel information.*  
 
-2. Router admin page showing OpenWrt firmware details  
+3. Router admin page showing OpenWrt firmware details  
 
    ![router-info](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/router-info.jpg)  
    *Figure 2: Router system information page listing Linux kernel version.*  
 
-3. Smart television settings showing Android TV OS version  
+4. Smart television settings showing Android TV OS version  
 
    ![smart-tv-settings](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/smart-tv-settings.png)  
    *Figure 3: Android TV information screen confirming kernel version.*  
 
-4. Kindle device About page showing system details  
+5. Kindle device About page showing system details  
 
    ![kindle-about](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/kindle-about.png)  
    *Figure 4: Kindle system settings screen confirming Linux base.*  
 
-5. Chromium OS display setup on repurposed laptop connected to a television  
+6. Chromium OS display setup on repurposed laptop connected to a television  
 
    ![chromiumos-tv](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/chromiumos-tv.png)  
    *Figure 5: DIY smart display running Chromium OS on an old laptop connected by HDMI.*  
