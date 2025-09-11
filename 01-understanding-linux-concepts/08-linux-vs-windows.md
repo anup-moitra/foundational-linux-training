@@ -104,7 +104,7 @@ You will see firsthand how Linux emphasizes automation and package management, w
 
 ### 🏁 Conclusion
 
-Linux and Windows both shape modern computing. Linux excels in transparency, stability, and infrastructure. Windows dominates in desktops, gaming, and office software. Professionals often use both—sometimes together, with **WSL** bridging worlds. Mastering their differences prepares you for system design, troubleshooting, and diverse career paths.  
+Linux and Windows both shape modern computing. Linux excels in transparency, stability, and infrastructure. Windows dominates in desktops, gaming, and office software. Professionals often use both, sometimes together with **WSL** bridging worlds. Mastering their differences prepares you for system design, troubleshooting, and diverse career paths.  
 
 > 💡 **Next Up:**  
 > With this, you have completed **Module 1: Understanding Linux Concepts**. Next, you will set up a virtual lab environment—your safe playground for hands-on Linux learning.
