@@ -22,9 +22,10 @@ Screenshots are stored under the `images/` folder in the project directory.
 1. Output of `cat /etc/os-release`  
 
    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/os-release-info.png" alt="os-release-info" width="700"/>  
+
    *Figure 1: Output confirming the system is running CentOS Stream 9, which is part of the Red Hat Enterprise Linux family.*  
 
-2. Comparison of major Linux distributions (Ubuntu, Fedora, Arch Linux)  
+3. Comparison of major Linux distributions (Ubuntu, Fedora, Arch Linux)  
 
    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/philosophy-distro-package-managers.png" alt="philosophy-distro-package-managers" width="700"/>  
 
