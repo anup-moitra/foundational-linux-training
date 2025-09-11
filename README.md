@@ -46,7 +46,7 @@ Open module → <a href="https://github.com/anup-moitra/foundational-linux-train
 
 - 01.01 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/01-everyday-linux.md">Everyday Linux</a>
 - 01.02 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/02-understanding-the-os.md">Understanding the OS</a>
-- 01.03 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what%20is-linux.md">What is Linux?</a>
+- 01.03 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/03-what-is-linux.md">What is Linux?</a>
 - 01.04 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/04-history-of-linux.md">History of Linux</a>
 - 01.05 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/05-unix-vs-linux.md">Unix vs Linux</a>
 - 01.06 — <a href="https://github.com/anup-moitra/foundational-linux-training/blob/main/01-understanding-linux-concepts/06-linux-distributions.md">Linux Distributions</a>
