@@ -22,7 +22,7 @@ Screenshots and notes are stored under the `images/` folder in the project direc
    *Figure 1: Amazon Linux information from AWS official documentation (click image for source).*  
 
 2. Screenshot showing NASA’s use of Linux  
-   <a href="https://esto.nasa.gov/conferences/estc-2002/Papers/B7P1%28Stakem%29.pdf"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/nasa-linux.jpg" alt="nasa-linux" width="600"/></a>  
+   <a href="https://esto.nasa.gov/conferences/estc-2002/Papers/B7P1%28Stakem%29.pdf"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/nasa-linux.jpg" alt="nasa-linux" width="700"/></a>  
    *Figure 2: NASA reference confirming Linux use in space missions (click image for source).*  
 
 3. Screenshot of Blender on a Linux-based studio workstation  
