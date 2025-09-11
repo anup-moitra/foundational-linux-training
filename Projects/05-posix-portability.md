@@ -27,11 +27,11 @@ Screenshots are stored under the `images/` folder in the project directory.
 
    *Figure 1: Linux output of uname showing kernel name, release, and machine type.*  
 
-3. Output of `uname -srm` on macOS (Unix-like system)  
+2. Output of `uname -srm` on macOS (Unix-like system)  
 
-   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/uname-macos.png" alt="uname-macos" width="700"/>  
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/uname-macos.png" alt="uname-macos" width="700"/>
 
-   *Figure 2: macOS output of uname confirming POSIX compliance.*  
+    *Figure 2: macOS output of uname confirming POSIX compliance.*  
 
 ## 🔗 Research Highlights  
 
