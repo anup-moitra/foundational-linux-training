@@ -31,26 +31,36 @@ systeminfo
 Screenshots are stored under the `images/` folder in the project directory.  
 
 1. Output of `uname -a` on Linux.  
-   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-uname-output.png" alt="linux-uname" width="700"/>  
+
+    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-uname-output.png" alt="linux-uname" width="700"/>  
    *Figure 1: Linux system details showing kernel version and architecture.*  
 
-2. Output of `systeminfo` on Windows.  
-   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-systeminfo.png" alt="windows-systeminfo" width="700"/>  
+3. Output of `systeminfo` on Windows.  
+
+    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-systeminfo.png" alt="windows-systeminfo" width="700"/>  
    *Figure 2: Windows system details including OS version, build, and hardware information.*  
 
-3. Screenshot of installing `htop` on Linux.  
+5. Screenshot of installing `htop` on Linux.  
+ 
    <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-htop-install.png" alt="linux-htop-install" width="700"/>  
    *Figure 3: Package manager installing htop and resolving dependencies automatically.*  
 
-4. Screenshots of installing a small application on Windows (step-by-step).  
+6. Screenshots of installing a small application on Windows (step-by-step).  
 
-| Step 1 | Step 2 | Step 3 |  
-|--------|--------|--------|  
-| ![Step 1](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step1.png) | ![Step 2](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step2.png) | ![Step 3](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step3.png) |  
+<p float="left">
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step1.png" alt="Step 1" width="45%"/>
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step2.png" alt="Step 2" width="45%"/>
+</p>
 
-| Step 4 | Step 5 | Step 6 |  
-|--------|--------|--------|  
-| ![Step 4](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step4.png) | ![Step 5](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step5.png) | ![Step 6](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step6.png) |  
+<p float="left">
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step3.png" alt="Step 3" width="45%"/>
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step4.png" alt="Step 4" width="45%"/>
+</p>
+
+<p float="left">
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step5.png" alt="Step 5" width="45%"/>
+  <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step6.png" alt="Step 6" width="45%"/>
+</p>
 
 *Figures 4a–4f: Windows installation process shown step by step.*  
 
