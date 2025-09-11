@@ -17,16 +17,22 @@ In this project, I researched how Linux is used in different industries and orga
 
 Screenshots and notes are stored under the `images/` folder in the project directory.  
 
-1. Screenshot of AWS Linux documentation  
+1. Screenshot of AWS Linux documentation 
+ 
    <a href="https://docs.aws.amazon.com/linux/"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/aws-linux-docs.jpg" alt="aws-linux-docs" width="700"/></a>  
+
    *Figure 1: Amazon Linux information from AWS official documentation (click image for source).*  
 
-2. Screenshot showing NASA’s use of Linux  
+3. Screenshot showing NASA’s use of Linux  
+
    <a href="https://esto.nasa.gov/conferences/estc-2002/Papers/B7P1%28Stakem%29.pdf"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/nasa-linux.jpg" alt="nasa-linux" width="700"/></a>  
+
    *Figure 2: NASA reference confirming Linux use in space missions (click image for source).*  
 
-3. Screenshot of Blender on a Linux-based studio workstation  
-   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/blender-linux-workstation.png" alt="blender-linux-workstation" width="700"/>  
+5. Screenshot of Blender on a Linux-based studio workstation  
+
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/blender-linux-workstation.png" alt="blender-linux-workstation" width="700"/>
+
    *Figure 3: Linux in use for animation workflows at a professional studio.*  
 
 ## 🔗 Research Highlights  
