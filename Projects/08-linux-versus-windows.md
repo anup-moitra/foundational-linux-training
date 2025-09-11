@@ -42,8 +42,17 @@ Screenshots are stored under the `images/` folder in the project directory.
    ![linux-htop-install](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-htop-install.png)  
    *Figure 3: Package manager installing htop and resolving dependencies automatically.*  
 
-4. Screenshot of installing a small application on Windows.  
-   *Figure 4: Windows installation process using an .exe installer with manual steps.*  
+4. Screenshots of installing a small application on Windows (step-by-step).  
+
+| Step 1 | Step 2 | Step 3 |  
+|--------|--------|--------|  
+| ![Step 1](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step1.png) | ![Step 2](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step2.png) | ![Step 3](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step3.png) |  
+
+| Step 4 | Step 5 | Step 6 |  
+|--------|--------|--------|  
+| ![Step 4](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step4.png) | ![Step 5](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step5.png) | ![Step 6](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-app-install-step6.png) |  
+
+*Figures 4a–4f: Windows installation process shown step by step.*  
 
 ## 🔗 Research Highlights  
 
