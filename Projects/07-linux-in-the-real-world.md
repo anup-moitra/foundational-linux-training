@@ -18,7 +18,8 @@ In this project, I researched how Linux is used in different industries and orga
 Screenshots and notes are stored under the `images/` folder in the project directory.  
 
 1. Screenshot of AWS Linux documentation  
-   *Figure 1: Amazon Linux information from AWS official documentation.*  
+   <a href="https://docs.aws.amazon.com/linux/"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/aws-linux-docs.jpg" alt="aws-linux-docs" width="700"/></a>  
+   *Figure 1: Amazon Linux information from AWS official documentation (click image for source).*  
 
 2. Screenshot showing NASA’s use of Linux  
    <a href="https://esto.nasa.gov/conferences/estc-2002/Papers/B7P1%28Stakem%29.pdf"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/nasa-linux.jpg" alt="nasa-linux" width="600"/></a>  
@@ -38,7 +39,7 @@ Screenshots and notes are stored under the `images/` folder in the project direc
 References:  
 - NASA: <https://www.nasa.gov/>  
 - NASA Linux usage paper: <https://esto.nasa.gov/conferences/estc-2002/Papers/B7P1%28Stakem%29.pdf>  
-- AWS Linux: <https://aws.amazon.com/amazon-linux/>  
+- AWS Linux Documentation: <https://docs.aws.amazon.com/linux/>  
 - Pixar: <https://renderman.pixar.com/>  
 
 ## 💡 What I Learned  
