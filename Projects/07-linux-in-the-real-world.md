@@ -26,6 +26,7 @@ Screenshots and notes are stored under the `images/` folder in the project direc
    *Figure 2: NASA reference confirming Linux use in space missions (click image for source).*  
 
 3. Screenshot of Blender on a Linux-based studio workstation  
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/blender-linux-workstation.png" alt="blender-linux-workstation" width="700"/>  
    *Figure 3: Linux in use for animation workflows at a professional studio.*  
 
 ## 🔗 Research Highlights  
