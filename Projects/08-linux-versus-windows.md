@@ -31,19 +31,18 @@ systeminfo
 Screenshots are stored under the `images/` folder in the project directory.  
 
 1. Output of `uname -a` on Linux.  
-
-    ![linux-uname](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-uname-output.png)  
+   ![linux-uname](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-uname-output.png)  
    *Figure 1: Linux system details showing kernel version and architecture.*  
 
-3. Output of `systeminfo` on Windows.  
-
-    ![windows-systeminfo](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-systeminfo.png)  
+2. Output of `systeminfo` on Windows.  
+   ![windows-systeminfo](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/windows-systeminfo.png)  
    *Figure 2: Windows system details including OS version, build, and hardware information.*  
 
-5. Screenshot of installing `htop` on Linux.  
+3. Screenshot of installing `htop` on Linux.  
+   ![linux-htop-install](https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/linux-htop-install.png)  
    *Figure 3: Package manager installing htop and resolving dependencies automatically.*  
 
-6. Screenshot of installing a small application on Windows.  
+4. Screenshot of installing a small application on Windows.  
    *Figure 4: Windows installation process using an .exe installer with manual steps.*  
 
 ## 🔗 Research Highlights  
