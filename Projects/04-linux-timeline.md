@@ -17,7 +17,7 @@ In this project, I traced Linux history by researching key milestones and why th
 Below are the images and screenshots stored under the `images/` folder in the project directory.  
 
 1. Timeline Diagram  
-   <img src="images/linux-timeline.jpg" alt="Linux Timeline" width="820" />  
+   <img src="images/linux-timeline.jpg" alt="Linux Timeline" width="700" />  
    *Figure 1: Infographic summarizing key milestones from UNIX roots to Android.*  
 
 2. GNU Project Announcement  
