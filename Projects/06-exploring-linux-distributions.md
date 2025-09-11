@@ -20,21 +20,21 @@ In this project, I researched and compared several Linux distributions to unders
 
 Screenshots are stored under the `images/` folder in the project directory.  
 
-Examples:  
-
 1. Output of `cat /etc/os-release` on my current system  
+   <img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/os-release-info.png" alt="os-release-info" width="700"/>  
    *Figure 1: Screenshot confirming my current distribution details.*  
 
 2. Notes or screenshots from Ubuntu documentation  
-   *Figure 2: Information about Ubuntu and its package manager APT.*  
+   <a href="https://canonical-ubuntu-packaging-guide.readthedocs-hosted.com/en/latest/explanation/archive/"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/ubuntu-apt-info.png" alt="ubuntu-apt-info" width="700"/></a>  
+   *Figure 2: Information about Ubuntu and its package manager APT (click image for source).*  
 
 3. Notes or screenshots from CentOS Stream documentation  
-   *Figure 3: CentOS Stream details, showing its rolling release model tied to Red Hat Enterprise Linux.*  
+   <a href="https://www.redhat.com/en/topics/linux/what-is-centos-stream"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/centos-stream-details-rhel-tie.jpg" alt="centos-stream-details" width="700"/></a>  
+   *Figure 3: CentOS Stream details, showing its rolling release model tied to Red Hat Enterprise Linux (click image for source).*  
 
 4. Notes or screenshots from Kali Linux documentation  
-   *Figure 4: Kali Linux use case for penetration testing and security research.*  
-
-*(Suggested filenames: `os-release-my-system.png`, `ubuntu-info.png`, `centos-stream-info.png`, `kali-info.png`)*  
+   <a href="https://www.kali.org/"><img src="https://github.com/anup-moitra/foundational-linux-training/blob/main/Projects/images/kali-linux-penetration-testing.jpg" alt="kali-linux-penetration-testing" width="700"/></a>  
+   *Figure 4: Kali Linux use case for penetration testing and security research (click image for source).*  
 
 ## 🔗 Research Highlights  
 
@@ -45,8 +45,8 @@ Examples:
 | **Kali Linux**   | APT (`apt`)         | Regular Debian based releases | Security testing, penetration testing, forensics |  
 
 References:  
-- Ubuntu: <https://ubuntu.com/>  
-- CentOS Stream: <https://centos.org/>  
+- Ubuntu Packaging Guide: <https://canonical-ubuntu-packaging-guide.readthedocs-hosted.com/en/latest/explanation/archive/>  
+- CentOS Stream: <https://www.redhat.com/en/topics/linux/what-is-centos-stream>  
 - Kali Linux: <https://www.kali.org/>  
 
 ## 💡 What I Learned  
