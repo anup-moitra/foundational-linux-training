@@ -48,7 +48,7 @@ Each chapter explored a concept, and each project gave hands-on experience to re
 
 ## 🚀 Next Steps  
 
-With Module 1 complete, you’re ready to move into **Module 2: Virtual Lab Setup**.  
+With Module 1 complete, you’re ready to move into **[Module 2: Virtual Lab Setup](https://github.com/anup-moitra/foundational-linux-training/tree/main/02-virtual-lab-setup)**.  
 This module will guide you through creating a safe Linux learning environment inside **VirtualBox**, where you can practice without risk to your main computer.  
 
 You’ll learn how to:  
